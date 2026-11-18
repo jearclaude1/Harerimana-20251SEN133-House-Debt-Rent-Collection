@@ -7,10 +7,10 @@
 - Dataset Name: Free Rental Management Dataset
 - Source: https://databasesample.com/datasets/rental-management
 - Format: CSV, JSON and PostgreSQL
-- Licence: To be verified from the publisher
+- Licence: TCC0 1.0.
 - Date Collected: To be completed
-- Number of Records: To be verified
-- Dataset Type: To be verified (real or synthetic)
+- Number of Records: 900
+- Dataset Type:  synthetic
 
 ### 2. Purpose
 
