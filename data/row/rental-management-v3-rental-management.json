@@ -1,0 +1,6564 @@
+{
+  "landlords": [
+    {
+      "id": 1,
+      "full_name": "Maja Adams",
+      "email": "maja.adams@example.com",
+      "phone": "+1-214-555-0123"
+    },
+    {
+      "id": 2,
+      "full_name": "Lucas Smith",
+      "email": "lucas.smith@example.com",
+      "phone": "+1-312-555-0196"
+    },
+    {
+      "id": 3,
+      "full_name": "Lucas Davis",
+      "email": "lucas.davis@example.net",
+      "phone": "+1-214-555-0192"
+    },
+    {
+      "id": 4,
+      "full_name": "Arjun Bauer",
+      "email": "arjun.bauer@example.org",
+      "phone": "+1-213-555-0120"
+    },
+    {
+      "id": 5,
+      "full_name": "Karim Wang",
+      "email": "karim.wang@example.org",
+      "phone": "+1-303-555-0173"
+    },
+    {
+      "id": 6,
+      "full_name": "Sam Khan",
+      "email": "sam.khan@example.net",
+      "phone": "+1-857-555-0140"
+    },
+    {
+      "id": 7,
+      "full_name": "Rosa Torres",
+      "email": "rosa.torres@example.net",
+      "phone": "+1-972-555-0174"
+    },
+    {
+      "id": 8,
+      "full_name": "Fatima Kaya",
+      "email": "fatima.kaya@example.net",
+      "phone": "+1-801-555-0115"
+    },
+    {
+      "id": 9,
+      "full_name": "Carla Wright",
+      "email": "carla.wright@example.org",
+      "phone": "+1-905-555-0115"
+    },
+    {
+      "id": 10,
+      "full_name": "Rafael Park",
+      "email": "rafael.park@example.org",
+      "phone": "+1-312-555-0109"
+    },
+    {
+      "id": 11,
+      "full_name": "Ravi Mendes",
+      "email": "ravi.mendes@example.org",
+      "phone": "+1-702-555-0106"
+    },
+    {
+      "id": 12,
+      "full_name": "Hugo Cruz",
+      "email": "hugo.cruz@example.net",
+      "phone": null
+    },
+    {
+      "id": 13,
+      "full_name": "Hugo Miller",
+      "email": "hugo.miller@example.org",
+      "phone": "+1-612-555-0126"
+    },
+    {
+      "id": 14,
+      "full_name": "Karim Patel",
+      "email": "karim.patel@example.org",
+      "phone": "+1-972-555-0159"
+    },
+    {
+      "id": 15,
+      "full_name": "Tariq Novak",
+      "email": "tariq.novak@example.net",
+      "phone": "+1-416-555-0163"
+    },
+    {
+      "id": 16,
+      "full_name": "Kai Evans",
+      "email": "kai.evans@example.org",
+      "phone": "+1-503-555-0178"
+    },
+    {
+      "id": 17,
+      "full_name": "Liam Vargas",
+      "email": "liam.vargas@example.net",
+      "phone": "+1-617-555-0166"
+    },
+    {
+      "id": 18,
+      "full_name": "Andre Jansen",
+      "email": "andre.jansen@example.com",
+      "phone": "+1-801-555-0102"
+    },
+    {
+      "id": 19,
+      "full_name": "Jade Chen",
+      "email": "jade.chen@example.org",
+      "phone": "+1-857-555-0158"
+    },
+    {
+      "id": 20,
+      "full_name": "Felix Hoffmann",
+      "email": "felix.hoffmann@example.net",
+      "phone": "+1-212-555-0194"
+    },
+    {
+      "id": 21,
+      "full_name": "Ethan Pereira",
+      "email": "ethan.pereira@example.net",
+      "phone": "+1-503-555-0124"
+    },
+    {
+      "id": 22,
+      "full_name": "Chen Garcia",
+      "email": "chen.garcia@example.com",
+      "phone": "+1-801-555-0158"
+    },
+    {
+      "id": 23,
+      "full_name": "Nina Weber",
+      "email": "nina.weber@example.com",
+      "phone": "+1-617-555-0188"
+    },
+    {
+      "id": 24,
+      "full_name": "Sara Jensen",
+      "email": "sara.jensen@example.net",
+      "phone": "+1-617-555-0174"
+    },
+    {
+      "id": 25,
+      "full_name": "Sven Miller",
+      "email": "sven.miller@example.org",
+      "phone": null
+    },
+    {
+      "id": 26,
+      "full_name": "Amir Becker",
+      "email": "amir.becker@example.net",
+      "phone": "+1-212-555-0158"
+    },
+    {
+      "id": 27,
+      "full_name": "Ines Silva",
+      "email": "ines.silva@example.org",
+      "phone": "+1-512-555-0139"
+    },
+    {
+      "id": 28,
+      "full_name": "Arjun Wagner",
+      "email": "arjun.wagner@example.net",
+      "phone": "+1-857-555-0121"
+    },
+    {
+      "id": 29,
+      "full_name": "Priya Torres",
+      "email": "priya.torres@example.org",
+      "phone": "+1-214-555-0109"
+    },
+    {
+      "id": 30,
+      "full_name": "Ben Hassan",
+      "email": "ben.hassan@example.net",
+      "phone": "+1-214-555-0108"
+    },
+    {
+      "id": 31,
+      "full_name": "Arjun Patel",
+      "email": "arjun.patel@example.org",
+      "phone": "+1-404-555-0171"
+    },
+    {
+      "id": 32,
+      "full_name": "Jack Almeida",
+      "email": "jack.almeida@example.net",
+      "phone": "+1-305-555-0183"
+    },
+    {
+      "id": 33,
+      "full_name": "James Tanaka",
+      "email": "james.tanaka@example.org",
+      "phone": "+1-202-555-0143"
+    },
+    {
+      "id": 34,
+      "full_name": "Grace Khan",
+      "email": "grace.khan@example.net",
+      "phone": "+1-702-555-0176"
+    },
+    {
+      "id": 35,
+      "full_name": "Ravi Jansen",
+      "email": "ravi.jansen@example.com",
+      "phone": "+1-213-555-0175"
+    },
+    {
+      "id": 36,
+      "full_name": "Zara Silva",
+      "email": "zara.silva@example.net",
+      "phone": "+1-303-555-0179"
+    },
+    {
+      "id": 37,
+      "full_name": "Olivia Clark",
+      "email": "olivia.clark@example.net",
+      "phone": "+1-905-555-0172"
+    },
+    {
+      "id": 38,
+      "full_name": "Tomas Gomez",
+      "email": "tomas.gomez@example.com",
+      "phone": "+1-972-555-0182"
+    },
+    {
+      "id": 39,
+      "full_name": "Tariq Patel",
+      "email": "tariq.patel@example.org",
+      "phone": "+1-503-555-0101"
+    },
+    {
+      "id": 40,
+      "full_name": "Rosa Lee",
+      "email": "rosa.lee@example.org",
+      "phone": "+1-512-555-0162"
+    },
+    {
+      "id": 41,
+      "full_name": "Carlos Brown",
+      "email": "carlos.brown@example.org",
+      "phone": "+1-415-555-0116"
+    },
+    {
+      "id": 42,
+      "full_name": "Karim Sato",
+      "email": "karim.sato@example.com",
+      "phone": "+1-702-555-0139"
+    },
+    {
+      "id": 43,
+      "full_name": "Chen Meyer",
+      "email": "chen.meyer@example.org",
+      "phone": "+1-512-555-0110"
+    },
+    {
+      "id": 44,
+      "full_name": "Ruby Ibrahim",
+      "email": "ruby.ibrahim@example.org",
+      "phone": "+1-801-555-0125"
+    },
+    {
+      "id": 45,
+      "full_name": "Hannah Carter",
+      "email": "hannah.carter@example.com",
+      "phone": null
+    },
+    {
+      "id": 46,
+      "full_name": "Uma Yilmaz",
+      "email": "uma.yilmaz@example.net",
+      "phone": "+1-404-555-0118"
+    },
+    {
+      "id": 47,
+      "full_name": "Isaac Nguyen",
+      "email": "isaac.nguyen@example.org",
+      "phone": "+1-702-555-0172"
+    },
+    {
+      "id": 48,
+      "full_name": "Uma Hughes",
+      "email": "uma.hughes@example.org",
+      "phone": "+1-469-555-0183"
+    },
+    {
+      "id": 49,
+      "full_name": "Mei Weber",
+      "email": "mei.weber@example.com",
+      "phone": "+1-702-555-0110"
+    },
+    {
+      "id": 50,
+      "full_name": "Ravi Novak",
+      "email": "ravi.novak@example.net",
+      "phone": "+1-702-555-0156"
+    }
+  ],
+  "properties": [
+    {
+      "id": 1,
+      "landlord_id": 44,
+      "address": "The team confirmed the details and the delivery was confirmed.",
+      "type": "apartment",
+      "square_footage": 1936,
+      "year_built": 1974
+    },
+    {
+      "id": 2,
+      "landlord_id": 2,
+      "address": "The invoice was reviewed after an urgent check.",
+      "type": "apartment",
+      "square_footage": 3395,
+      "year_built": 1969
+    },
+    {
+      "id": 3,
+      "landlord_id": 16,
+      "address": "The team asked for a change and the report was escalated.",
+      "type": "apartment",
+      "square_footage": 2149,
+      "year_built": 1996
+    },
+    {
+      "id": 4,
+      "landlord_id": 42,
+      "address": "The customer confirmed the details and the shipment was refunded.",
+      "type": "condo",
+      "square_footage": 2172,
+      "year_built": 1947
+    },
+    {
+      "id": 5,
+      "landlord_id": 19,
+      "address": "A standard ticket was approved the same day.",
+      "type": "house",
+      "square_footage": 3009,
+      "year_built": 1983
+    },
+    {
+      "id": 6,
+      "landlord_id": 50,
+      "address": "Flagged as unusual. The supplier confirmed the refund.",
+      "type": "apartment",
+      "square_footage": 3355,
+      "year_built": 1987
+    },
+    {
+      "id": 7,
+      "landlord_id": 6,
+      "address": "The shipment was reviewed — automatic case, no further action.",
+      "type": "apartment",
+      "square_footage": 2290,
+      "year_built": 1999
+    },
+    {
+      "id": 8,
+      "landlord_id": 35,
+      "address": "The claim was rescheduled after a routine check.",
+      "type": "apartment",
+      "square_footage": 3115,
+      "year_built": 1943
+    },
+    {
+      "id": 9,
+      "landlord_id": 27,
+      "address": "The request was processed — incomplete case, no further action.",
+      "type": "house",
+      "square_footage": 3179,
+      "year_built": 1971
+    },
+    {
+      "id": 10,
+      "landlord_id": 42,
+      "address": "A late invoice was rejected the same day.",
+      "type": "apartment",
+      "square_footage": 2774,
+      "year_built": 1982
+    },
+    {
+      "id": 11,
+      "landlord_id": 18,
+      "address": "Support confirmed the details and the payment was reopened.",
+      "type": "house",
+      "square_footage": 2942,
+      "year_built": 1966
+    },
+    {
+      "id": 12,
+      "landlord_id": 3,
+      "address": "The account was approved following an urgent review.",
+      "type": "house",
+      "square_footage": 2651,
+      "year_built": 1936
+    },
+    {
+      "id": 13,
+      "landlord_id": 17,
+      "address": "The request was updated following a repeat review.",
+      "type": "apartment",
+      "square_footage": 3344,
+      "year_built": 1929
+    },
+    {
+      "id": 14,
+      "landlord_id": 33,
+      "address": "The booking was completed — manual case, no further action.",
+      "type": "apartment",
+      "square_footage": 1707,
+      "year_built": 2005
+    },
+    {
+      "id": 15,
+      "landlord_id": 19,
+      "address": "No response from support, so the shipment was rejected.",
+      "type": "house",
+      "square_footage": 2260,
+      "year_built": 1987
+    },
+    {
+      "id": 16,
+      "landlord_id": 33,
+      "address": "A minor follow-up: the document was processed.",
+      "type": "apartment",
+      "square_footage": 2551,
+      "year_built": 1967
+    },
+    {
+      "id": 17,
+      "landlord_id": 25,
+      "address": "A manual follow-up: the payment was resolved.",
+      "type": "house",
+      "square_footage": 3198,
+      "year_built": 1924
+    },
+    {
+      "id": 18,
+      "landlord_id": 15,
+      "address": "No response from an operator, so the order was closed.",
+      "type": "house",
+      "square_footage": 2959,
+      "year_built": 1958
+    },
+    {
+      "id": 19,
+      "landlord_id": 33,
+      "address": "The delivery was reopened following an unusual review.",
+      "type": "apartment",
+      "square_footage": 2785,
+      "year_built": 1969
+    },
+    {
+      "id": 20,
+      "landlord_id": 34,
+      "address": "An incomplete record was reviewed the same day.",
+      "type": "apartment",
+      "square_footage": 2297,
+      "year_built": 1968
+    },
+    {
+      "id": 21,
+      "landlord_id": 23,
+      "address": "Flagged as late. The account owner processed the appointment.",
+      "type": "condo",
+      "square_footage": 1818,
+      "year_built": 1976
+    },
+    {
+      "id": 22,
+      "landlord_id": 19,
+      "address": "The ticket was resolved after a late check.",
+      "type": "apartment",
+      "square_footage": 2856,
+      "year_built": 1964
+    },
+    {
+      "id": 23,
+      "landlord_id": 19,
+      "address": "Support reported a duplicate issue; the account was replaced.",
+      "type": "apartment",
+      "square_footage": 2088,
+      "year_built": 1989
+    },
+    {
+      "id": 24,
+      "landlord_id": 17,
+      "address": "No response from the reviewer, so the payment was escalated.",
+      "type": "apartment",
+      "square_footage": 2988,
+      "year_built": 1920
+    },
+    {
+      "id": 25,
+      "landlord_id": 41,
+      "address": "A routine follow-up: the shipment was reviewed.",
+      "type": "apartment",
+      "square_footage": 2428,
+      "year_built": 1974
+    },
+    {
+      "id": 26,
+      "landlord_id": 23,
+      "address": "The session was cancelled following a partial review.",
+      "type": "condo",
+      "square_footage": 2275,
+      "year_built": 1968
+    },
+    {
+      "id": 27,
+      "landlord_id": 9,
+      "address": "Flagged as standard. The reviewer rejected the transfer.",
+      "type": "apartment",
+      "square_footage": 2997,
+      "year_built": 1958
+    },
+    {
+      "id": 28,
+      "landlord_id": 9,
+      "address": "The supplier confirmed the details and the request was reopened.",
+      "type": "apartment",
+      "square_footage": 3726,
+      "year_built": 1968
+    },
+    {
+      "id": 29,
+      "landlord_id": 6,
+      "address": "The record was processed following a repeat review.",
+      "type": "apartment",
+      "square_footage": 3020,
+      "year_built": 1944
+    },
+    {
+      "id": 30,
+      "landlord_id": 16,
+      "address": "No response from support, so the ticket was reviewed.",
+      "type": "house",
+      "square_footage": 2831,
+      "year_built": 1919
+    },
+    {
+      "id": 31,
+      "landlord_id": 29,
+      "address": "The team asked for a change and the account was approved.",
+      "type": "house",
+      "square_footage": 1673,
+      "year_built": 1928
+    },
+    {
+      "id": 32,
+      "landlord_id": 35,
+      "address": "An operator reported an automatic issue; the refund was confirmed.",
+      "type": "apartment",
+      "square_footage": 1571,
+      "year_built": 1963
+    },
+    {
+      "id": 33,
+      "landlord_id": 17,
+      "address": "An automatic document was confirmed the same day.",
+      "type": "apartment",
+      "square_footage": 2569,
+      "year_built": 1963
+    },
+    {
+      "id": 34,
+      "landlord_id": 19,
+      "address": "The customer reported a repeat issue; the item was resolved.",
+      "type": "house",
+      "square_footage": 3300,
+      "year_built": 1970
+    },
+    {
+      "id": 35,
+      "landlord_id": 32,
+      "address": "No response from an operator, so the payment was rescheduled.",
+      "type": "apartment",
+      "square_footage": 1386,
+      "year_built": 1996
+    },
+    {
+      "id": 36,
+      "landlord_id": 32,
+      "address": "The order was closed after a standard check.",
+      "type": "condo",
+      "square_footage": 3341,
+      "year_built": 1982
+    },
+    {
+      "id": 37,
+      "landlord_id": 45,
+      "address": "The supplier reported a minor issue; the appointment was closed.",
+      "type": "house",
+      "square_footage": 2622,
+      "year_built": 1985
+    },
+    {
+      "id": 38,
+      "landlord_id": 48,
+      "address": "Flagged as routine. Support reviewed the payment.",
+      "type": "house",
+      "square_footage": 3376,
+      "year_built": 1951
+    },
+    {
+      "id": 39,
+      "landlord_id": 35,
+      "address": "A partial follow-up: the record was closed.",
+      "type": "house",
+      "square_footage": 2802,
+      "year_built": 1946
+    },
+    {
+      "id": 40,
+      "landlord_id": 1,
+      "address": "The payment was approved following a late review.",
+      "type": "apartment",
+      "square_footage": 2193,
+      "year_built": 1960
+    },
+    {
+      "id": 41,
+      "landlord_id": 14,
+      "address": "A minor follow-up: the order was processed.",
+      "type": "condo",
+      "square_footage": 2332,
+      "year_built": 1958
+    },
+    {
+      "id": 42,
+      "landlord_id": 18,
+      "address": "The reviewer asked for a change and the request was updated.",
+      "type": "apartment",
+      "square_footage": 4092,
+      "year_built": 1979
+    },
+    {
+      "id": 43,
+      "landlord_id": 42,
+      "address": "An operator reported a partial issue; the order was rescheduled.",
+      "type": "house",
+      "square_footage": 3081,
+      "year_built": 1930
+    },
+    {
+      "id": 44,
+      "landlord_id": 31,
+      "address": "The appointment was updated — repeat case, no further action.",
+      "type": "condo",
+      "square_footage": 2303,
+      "year_built": 1995
+    },
+    {
+      "id": 45,
+      "landlord_id": 7,
+      "address": "The order was rescheduled — urgent case, no further action.",
+      "type": "apartment",
+      "square_footage": 3073,
+      "year_built": 1948
+    },
+    {
+      "id": 46,
+      "landlord_id": 49,
+      "address": "Flagged as partial. The customer cancelled the report.",
+      "type": "house",
+      "square_footage": 3070,
+      "year_built": 1970
+    },
+    {
+      "id": 47,
+      "landlord_id": 14,
+      "address": "Flagged as incomplete. The account owner updated the order.",
+      "type": "apartment",
+      "square_footage": 3117,
+      "year_built": 1968
+    },
+    {
+      "id": 48,
+      "landlord_id": 43,
+      "address": "A manual delivery was reviewed the same day.",
+      "type": "apartment",
+      "square_footage": 2579,
+      "year_built": 1970
+    },
+    {
+      "id": 49,
+      "landlord_id": 31,
+      "address": "An urgent follow-up: the claim was replaced.",
+      "type": "house",
+      "square_footage": 3323,
+      "year_built": 1959
+    },
+    {
+      "id": 50,
+      "landlord_id": 46,
+      "address": "The account owner confirmed the details and the delivery was reopened.",
+      "type": "apartment",
+      "square_footage": 2717,
+      "year_built": 1949
+    },
+    {
+      "id": 51,
+      "landlord_id": 2,
+      "address": "A partial follow-up: the refund was closed.",
+      "type": "apartment",
+      "square_footage": 2824,
+      "year_built": 1939
+    },
+    {
+      "id": 52,
+      "landlord_id": 40,
+      "address": "Support reported a partial issue; the delivery was reviewed.",
+      "type": "condo",
+      "square_footage": 3291,
+      "year_built": 1992
+    },
+    {
+      "id": 53,
+      "landlord_id": 43,
+      "address": "Support confirmed the details and the refund was reopened.",
+      "type": "apartment",
+      "square_footage": 1790,
+      "year_built": 1962
+    },
+    {
+      "id": 54,
+      "landlord_id": 13,
+      "address": "A late follow-up: the booking was updated.",
+      "type": "house",
+      "square_footage": 3097,
+      "year_built": 1960
+    },
+    {
+      "id": 55,
+      "landlord_id": 6,
+      "address": "A late follow-up: the transfer was closed.",
+      "type": "apartment",
+      "square_footage": 3600,
+      "year_built": 1979
+    },
+    {
+      "id": 56,
+      "landlord_id": 43,
+      "address": "The customer reported a duplicate issue; the delivery was updated.",
+      "type": "apartment",
+      "square_footage": 2830,
+      "year_built": 1986
+    },
+    {
+      "id": 57,
+      "landlord_id": 33,
+      "address": "The report was delayed after a late check.",
+      "type": "apartment",
+      "square_footage": 2134,
+      "year_built": 1978
+    },
+    {
+      "id": 58,
+      "landlord_id": 37,
+      "address": "A minor account was processed the same day.",
+      "type": "apartment",
+      "square_footage": 3386,
+      "year_built": 1961
+    },
+    {
+      "id": 59,
+      "landlord_id": 36,
+      "address": "An unusual report was processed the same day.",
+      "type": "condo",
+      "square_footage": 2896,
+      "year_built": 1976
+    },
+    {
+      "id": 60,
+      "landlord_id": 28,
+      "address": "Flagged as urgent. Support reopened the record.",
+      "type": "apartment",
+      "square_footage": 2871,
+      "year_built": 1975
+    },
+    {
+      "id": 61,
+      "landlord_id": 21,
+      "address": "Flagged as incomplete. The courier rejected the record.",
+      "type": "apartment",
+      "square_footage": 3534,
+      "year_built": 1973
+    },
+    {
+      "id": 62,
+      "landlord_id": 47,
+      "address": "A routine follow-up: the request was cancelled.",
+      "type": "apartment",
+      "square_footage": 2167,
+      "year_built": 1937
+    },
+    {
+      "id": 63,
+      "landlord_id": 48,
+      "address": "The record was rejected following a minor review.",
+      "type": "apartment",
+      "square_footage": 3012,
+      "year_built": 1934
+    },
+    {
+      "id": 64,
+      "landlord_id": 34,
+      "address": "The delivery was delayed after a standard check.",
+      "type": "condo",
+      "square_footage": 3009,
+      "year_built": 1952
+    },
+    {
+      "id": 65,
+      "landlord_id": 44,
+      "address": "The item was rescheduled — manual case, no further action.",
+      "type": "apartment",
+      "square_footage": 2879,
+      "year_built": 1946
+    },
+    {
+      "id": 66,
+      "landlord_id": 46,
+      "address": "The customer asked for a change and the report was processed.",
+      "type": "apartment",
+      "square_footage": 1733,
+      "year_built": 1978
+    },
+    {
+      "id": 67,
+      "landlord_id": 18,
+      "address": "No response from the reviewer, so the invoice was closed.",
+      "type": "apartment",
+      "square_footage": 2798,
+      "year_built": 1939
+    },
+    {
+      "id": 68,
+      "landlord_id": 20,
+      "address": "The shipment was reviewed — duplicate case, no further action.",
+      "type": "apartment",
+      "square_footage": 1575,
+      "year_built": 1923
+    },
+    {
+      "id": 69,
+      "landlord_id": 37,
+      "address": "The transfer was replaced — unusual case, no further action.",
+      "type": "apartment",
+      "square_footage": 3307,
+      "year_built": 1958
+    },
+    {
+      "id": 70,
+      "landlord_id": 10,
+      "address": "The courier confirmed the details and the appointment was updated.",
+      "type": "apartment",
+      "square_footage": 2374,
+      "year_built": 1960
+    },
+    {
+      "id": 71,
+      "landlord_id": 31,
+      "address": "A duplicate follow-up: the booking was closed.",
+      "type": "apartment",
+      "square_footage": 2972,
+      "year_built": 1933
+    },
+    {
+      "id": 72,
+      "landlord_id": 47,
+      "address": "The customer asked for a change and the claim was cancelled.",
+      "type": "apartment",
+      "square_footage": 2233,
+      "year_built": 1966
+    },
+    {
+      "id": 73,
+      "landlord_id": 11,
+      "address": "An operator asked for a change and the transfer was completed.",
+      "type": "apartment",
+      "square_footage": 2328,
+      "year_built": 1959
+    },
+    {
+      "id": 74,
+      "landlord_id": 13,
+      "address": "Support confirmed the details and the delivery was completed.",
+      "type": "apartment",
+      "square_footage": 1566,
+      "year_built": 1988
+    },
+    {
+      "id": 75,
+      "landlord_id": 9,
+      "address": "An urgent follow-up: the delivery was resolved.",
+      "type": "apartment",
+      "square_footage": 2063,
+      "year_built": 1977
+    },
+    {
+      "id": 76,
+      "landlord_id": 50,
+      "address": "A duplicate request was rejected the same day.",
+      "type": "apartment",
+      "square_footage": 1084,
+      "year_built": 1969
+    },
+    {
+      "id": 77,
+      "landlord_id": 5,
+      "address": "The transfer was escalated following an incomplete review.",
+      "type": "apartment",
+      "square_footage": 3109,
+      "year_built": 1985
+    },
+    {
+      "id": 78,
+      "landlord_id": 38,
+      "address": "The shipment was rescheduled — manual case, no further action.",
+      "type": "apartment",
+      "square_footage": 1809,
+      "year_built": 1932
+    },
+    {
+      "id": 79,
+      "landlord_id": 10,
+      "address": "A standard follow-up: the appointment was refunded.",
+      "type": "house",
+      "square_footage": 2321,
+      "year_built": 1975
+    },
+    {
+      "id": 80,
+      "landlord_id": 48,
+      "address": "A minor session was processed the same day.",
+      "type": "apartment",
+      "square_footage": 1978,
+      "year_built": 1952
+    },
+    {
+      "id": 81,
+      "landlord_id": 13,
+      "address": "No response from the reviewer, so the ticket was escalated.",
+      "type": "condo",
+      "square_footage": 2785,
+      "year_built": 1988
+    },
+    {
+      "id": 82,
+      "landlord_id": 21,
+      "address": "The account owner asked for a change and the order was escalated.",
+      "type": "apartment",
+      "square_footage": 3843,
+      "year_built": 1983
+    },
+    {
+      "id": 83,
+      "landlord_id": 45,
+      "address": "Support reported an unusual issue; the document was approved.",
+      "type": "house",
+      "square_footage": 2577,
+      "year_built": 1921
+    },
+    {
+      "id": 84,
+      "landlord_id": 3,
+      "address": "An unusual record was approved the same day.",
+      "type": "house",
+      "square_footage": 2392,
+      "year_built": 1929
+    },
+    {
+      "id": 85,
+      "landlord_id": 11,
+      "address": "The payment was reviewed following an automatic review.",
+      "type": "apartment",
+      "square_footage": 2742,
+      "year_built": 1969
+    },
+    {
+      "id": 86,
+      "landlord_id": 9,
+      "address": "A routine report was approved the same day.",
+      "type": "apartment",
+      "square_footage": 1154,
+      "year_built": 1966
+    },
+    {
+      "id": 87,
+      "landlord_id": 38,
+      "address": "The reviewer reported a late issue; the invoice was completed.",
+      "type": "house",
+      "square_footage": 3730,
+      "year_built": 1932
+    },
+    {
+      "id": 88,
+      "landlord_id": 23,
+      "address": "Flagged as manual. The account owner approved the delivery.",
+      "type": "apartment",
+      "square_footage": 2442,
+      "year_built": 1961
+    },
+    {
+      "id": 89,
+      "landlord_id": 37,
+      "address": "An unusual follow-up: the report was reopened.",
+      "type": "apartment",
+      "square_footage": 2803,
+      "year_built": 1942
+    },
+    {
+      "id": 90,
+      "landlord_id": 18,
+      "address": "The account owner asked for a change and the session was reviewed.",
+      "type": "apartment",
+      "square_footage": 2935,
+      "year_built": 1949
+    },
+    {
+      "id": 91,
+      "landlord_id": 20,
+      "address": "Flagged as routine. The account owner confirmed the record.",
+      "type": "condo",
+      "square_footage": 3626,
+      "year_built": 1968
+    },
+    {
+      "id": 92,
+      "landlord_id": 22,
+      "address": "An operator confirmed the details and the report was resolved.",
+      "type": "apartment",
+      "square_footage": 2628,
+      "year_built": 1935
+    },
+    {
+      "id": 93,
+      "landlord_id": 25,
+      "address": "No response from the team, so the session was refunded.",
+      "type": "apartment",
+      "square_footage": 3709,
+      "year_built": 1963
+    },
+    {
+      "id": 94,
+      "landlord_id": 16,
+      "address": "The booking was reopened — partial case, no further action.",
+      "type": "apartment",
+      "square_footage": 2725,
+      "year_built": 1957
+    },
+    {
+      "id": 95,
+      "landlord_id": 44,
+      "address": "The claim was refunded — repeat case, no further action.",
+      "type": "apartment",
+      "square_footage": 2969,
+      "year_built": 1961
+    },
+    {
+      "id": 96,
+      "landlord_id": 16,
+      "address": "The team confirmed the details and the claim was reopened.",
+      "type": "house",
+      "square_footage": 3548,
+      "year_built": 1957
+    },
+    {
+      "id": 97,
+      "landlord_id": 21,
+      "address": "No response from the reviewer, so the document was confirmed.",
+      "type": "house",
+      "square_footage": 3465,
+      "year_built": 1951
+    },
+    {
+      "id": 98,
+      "landlord_id": 9,
+      "address": "A partial request was escalated the same day.",
+      "type": "apartment",
+      "square_footage": 1603,
+      "year_built": 1942
+    },
+    {
+      "id": 99,
+      "landlord_id": 50,
+      "address": "The customer asked for a change and the document was escalated.",
+      "type": "apartment",
+      "square_footage": 2864,
+      "year_built": 1986
+    },
+    {
+      "id": 100,
+      "landlord_id": 44,
+      "address": "Flagged as repeat. The reviewer completed the order.",
+      "type": "house",
+      "square_footage": 2370,
+      "year_built": 1959
+    }
+  ],
+  "units": [
+    {
+      "id": 1,
+      "property_id": 72,
+      "unit_number": "Flagged as partial. The account owner escalated the ticket.",
+      "bedrooms": 2,
+      "bathrooms": 3,
+      "rent_price": 3441.54
+    },
+    {
+      "id": 2,
+      "property_id": 26,
+      "unit_number": "The record was refunded after a standard check.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 802.07
+    },
+    {
+      "id": 3,
+      "property_id": 87,
+      "unit_number": null,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 2422.95
+    },
+    {
+      "id": 4,
+      "property_id": 93,
+      "unit_number": "The reviewer reported a manual issue; the document was rejected.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 2529.33
+    },
+    {
+      "id": 5,
+      "property_id": 41,
+      "unit_number": "The invoice was delayed — unusual case, no further action.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 870.22
+    },
+    {
+      "id": 6,
+      "property_id": 71,
+      "unit_number": "No response from an operator, so the claim was updated.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 3036.33
+    },
+    {
+      "id": 7,
+      "property_id": 12,
+      "unit_number": "The account was reopened following a minor review.",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "rent_price": 917.72
+    },
+    {
+      "id": 8,
+      "property_id": 50,
+      "unit_number": "The transfer was refunded after a routine check.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 805.27
+    },
+    {
+      "id": 9,
+      "property_id": 34,
+      "unit_number": "An urgent follow-up: the transfer was replaced.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 1013.43
+    },
+    {
+      "id": 10,
+      "property_id": 5,
+      "unit_number": "An unusual follow-up: the report was updated.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 2026.8
+    },
+    {
+      "id": 11,
+      "property_id": 87,
+      "unit_number": "A manual follow-up: the record was updated.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 1649.79
+    },
+    {
+      "id": 12,
+      "property_id": 37,
+      "unit_number": "The reviewer asked for a change and the appointment was cancelled.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 2795.37
+    },
+    {
+      "id": 13,
+      "property_id": 28,
+      "unit_number": "The courier reported an urgent issue; the report was updated.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 1298.99
+    },
+    {
+      "id": 14,
+      "property_id": 39,
+      "unit_number": "The team reported a partial issue; the claim was escalated.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 2128.76
+    },
+    {
+      "id": 15,
+      "property_id": 78,
+      "unit_number": "No response from the customer, so the booking was replaced.",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "rent_price": 1335.84
+    },
+    {
+      "id": 16,
+      "property_id": 32,
+      "unit_number": "Flagged as automatic. The courier delayed the delivery.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 2721.2
+    },
+    {
+      "id": 17,
+      "property_id": 55,
+      "unit_number": "No response from the reviewer, so the delivery was reopened.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 833.6
+    },
+    {
+      "id": 18,
+      "property_id": 45,
+      "unit_number": "The payment was resolved following a routine review.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 990.28
+    },
+    {
+      "id": 19,
+      "property_id": 50,
+      "unit_number": "The team confirmed the details and the refund was cancelled.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 964.88
+    },
+    {
+      "id": 20,
+      "property_id": 7,
+      "unit_number": "A minor follow-up: the payment was processed.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 2550.14
+    },
+    {
+      "id": 21,
+      "property_id": 36,
+      "unit_number": "The account owner asked for a change and the report was rescheduled.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 812.74
+    },
+    {
+      "id": 22,
+      "property_id": 27,
+      "unit_number": null,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 2280.8
+    },
+    {
+      "id": 23,
+      "property_id": 93,
+      "unit_number": "A repeat follow-up: the session was completed.",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 1855.35
+    },
+    {
+      "id": 24,
+      "property_id": 31,
+      "unit_number": "Support confirmed the details and the request was processed.",
+      "bedrooms": 5,
+      "bathrooms": 1,
+      "rent_price": 2234.22
+    },
+    {
+      "id": 25,
+      "property_id": 24,
+      "unit_number": "The team asked for a change and the payment was updated.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 3175.48
+    },
+    {
+      "id": 26,
+      "property_id": 5,
+      "unit_number": null,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 825.37
+    },
+    {
+      "id": 27,
+      "property_id": 40,
+      "unit_number": "The team asked for a change and the account was closed.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 860.03
+    },
+    {
+      "id": 28,
+      "property_id": 22,
+      "unit_number": "The transfer was closed following a repeat review.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 988.9
+    },
+    {
+      "id": 29,
+      "property_id": 37,
+      "unit_number": "A partial follow-up: the item was updated.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 2186.64
+    },
+    {
+      "id": 30,
+      "property_id": 66,
+      "unit_number": "The team asked for a change and the appointment was escalated.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 811.36
+    },
+    {
+      "id": 31,
+      "property_id": 100,
+      "unit_number": "The team reported a partial issue; the appointment was cancelled.",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 2409.71
+    },
+    {
+      "id": 32,
+      "property_id": 74,
+      "unit_number": null,
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 2985.58
+    },
+    {
+      "id": 33,
+      "property_id": 49,
+      "unit_number": null,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 1250.73
+    },
+    {
+      "id": 34,
+      "property_id": 86,
+      "unit_number": "The courier confirmed the details and the ticket was reviewed.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 2464.18
+    },
+    {
+      "id": 35,
+      "property_id": 26,
+      "unit_number": "Flagged as manual. The courier closed the invoice.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 2174.97
+    },
+    {
+      "id": 36,
+      "property_id": 35,
+      "unit_number": "Flagged as repeat. The customer replaced the session.",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 2767.45
+    },
+    {
+      "id": 37,
+      "property_id": 36,
+      "unit_number": "The courier reported an incomplete issue; the refund was replaced.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 936.88
+    },
+    {
+      "id": 38,
+      "property_id": 36,
+      "unit_number": "The claim was reopened after a repeat check.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 802.84
+    },
+    {
+      "id": 39,
+      "property_id": 6,
+      "unit_number": "The payment was completed following a partial review.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 971.29
+    },
+    {
+      "id": 40,
+      "property_id": 23,
+      "unit_number": "No response from the customer, so the appointment was updated.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 807.62
+    },
+    {
+      "id": 41,
+      "property_id": 70,
+      "unit_number": null,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 823.31
+    },
+    {
+      "id": 42,
+      "property_id": 69,
+      "unit_number": "The delivery was processed — minor case, no further action.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 1492.94
+    },
+    {
+      "id": 43,
+      "property_id": 30,
+      "unit_number": "An unusual follow-up: the refund was cancelled.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 1268.89
+    },
+    {
+      "id": 44,
+      "property_id": 58,
+      "unit_number": "The session was confirmed — repeat case, no further action.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 1819.4
+    },
+    {
+      "id": 45,
+      "property_id": 20,
+      "unit_number": "A late document was reopened the same day.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 2234.41
+    },
+    {
+      "id": 46,
+      "property_id": 28,
+      "unit_number": "A routine shipment was refunded the same day.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 1273.49
+    },
+    {
+      "id": 47,
+      "property_id": 82,
+      "unit_number": "The refund was updated after an urgent check.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 1495.23
+    },
+    {
+      "id": 48,
+      "property_id": 23,
+      "unit_number": "The supplier reported a duplicate issue; the invoice was reviewed.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 871.24
+    },
+    {
+      "id": 49,
+      "property_id": 75,
+      "unit_number": null,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rent_price": 2255.51
+    },
+    {
+      "id": 50,
+      "property_id": 60,
+      "unit_number": "The session was processed after a partial check.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 2484.54
+    },
+    {
+      "id": 51,
+      "property_id": 7,
+      "unit_number": null,
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 1061.14
+    },
+    {
+      "id": 52,
+      "property_id": 47,
+      "unit_number": "The team confirmed the details and the item was replaced.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 2106.11
+    },
+    {
+      "id": 53,
+      "property_id": 32,
+      "unit_number": "No response from the customer, so the report was confirmed.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 1184.86
+    },
+    {
+      "id": 54,
+      "property_id": 70,
+      "unit_number": "No response from the supplier, so the request was approved.",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 2888.83
+    },
+    {
+      "id": 55,
+      "property_id": 5,
+      "unit_number": null,
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 3304.49
+    },
+    {
+      "id": 56,
+      "property_id": 66,
+      "unit_number": "The supplier confirmed the details and the report was rejected.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 1718.94
+    },
+    {
+      "id": 57,
+      "property_id": 49,
+      "unit_number": "The account owner reported a manual issue; the transfer was completed.",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 1451.83
+    },
+    {
+      "id": 58,
+      "property_id": 67,
+      "unit_number": "The supplier reported a manual issue; the appointment was escalated.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 1009.26
+    },
+    {
+      "id": 59,
+      "property_id": 49,
+      "unit_number": null,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 1154.2
+    },
+    {
+      "id": 60,
+      "property_id": 58,
+      "unit_number": "The appointment was processed after an urgent check.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 834.52
+    },
+    {
+      "id": 61,
+      "property_id": 26,
+      "unit_number": "Flagged as routine. The courier closed the session.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 1491.15
+    },
+    {
+      "id": 62,
+      "property_id": 25,
+      "unit_number": "Flagged as partial. The supplier resolved the appointment.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 1103.05
+    },
+    {
+      "id": 63,
+      "property_id": 100,
+      "unit_number": "No response from the courier, so the record was closed.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 971.02
+    },
+    {
+      "id": 64,
+      "property_id": 96,
+      "unit_number": "The invoice was processed after an urgent check.",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 1927.43
+    },
+    {
+      "id": 65,
+      "property_id": 81,
+      "unit_number": "No response from support, so the appointment was refunded.",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "rent_price": 2936.27
+    },
+    {
+      "id": 66,
+      "property_id": 17,
+      "unit_number": null,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 1542.46
+    },
+    {
+      "id": 67,
+      "property_id": 72,
+      "unit_number": "A partial request was rescheduled the same day.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 1235.32
+    },
+    {
+      "id": 68,
+      "property_id": 80,
+      "unit_number": null,
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 816.61
+    },
+    {
+      "id": 69,
+      "property_id": 94,
+      "unit_number": "No response from the customer, so the claim was resolved.",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 2681.1
+    },
+    {
+      "id": 70,
+      "property_id": 88,
+      "unit_number": "No response from the courier, so the invoice was cancelled.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 1233.51
+    },
+    {
+      "id": 71,
+      "property_id": 8,
+      "unit_number": null,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 1755.21
+    },
+    {
+      "id": 72,
+      "property_id": 40,
+      "unit_number": null,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 2043.56
+    },
+    {
+      "id": 73,
+      "property_id": 8,
+      "unit_number": "The payment was escalated after a minor check.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 954.15
+    },
+    {
+      "id": 74,
+      "property_id": 26,
+      "unit_number": "The payment was escalated following an automatic review.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 2197.69
+    },
+    {
+      "id": 75,
+      "property_id": 10,
+      "unit_number": "The team confirmed the details and the payment was reopened.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 2050.83
+    },
+    {
+      "id": 76,
+      "property_id": 31,
+      "unit_number": "The booking was completed following an unusual review.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 3117.49
+    },
+    {
+      "id": 77,
+      "property_id": 31,
+      "unit_number": "The refund was refunded after a routine check.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 2629.63
+    },
+    {
+      "id": 78,
+      "property_id": 23,
+      "unit_number": "Support reported an incomplete issue; the request was replaced.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 829.57
+    },
+    {
+      "id": 79,
+      "property_id": 68,
+      "unit_number": "No response from the courier, so the invoice was reopened.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 1373.01
+    },
+    {
+      "id": 80,
+      "property_id": 45,
+      "unit_number": "No response from the account owner, so the booking was rescheduled.",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 1519.74
+    },
+    {
+      "id": 81,
+      "property_id": 18,
+      "unit_number": "An incomplete report was resolved the same day.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 973.51
+    },
+    {
+      "id": 82,
+      "property_id": 49,
+      "unit_number": "The shipment was approved following a manual review.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 1696.61
+    },
+    {
+      "id": 83,
+      "property_id": 77,
+      "unit_number": "The record was completed after an incomplete check.",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 2804.92
+    },
+    {
+      "id": 84,
+      "property_id": 70,
+      "unit_number": "The account owner confirmed the details and the delivery was refunded.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 801.66
+    },
+    {
+      "id": 85,
+      "property_id": 66,
+      "unit_number": "A late ticket was closed the same day.",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 899.83
+    },
+    {
+      "id": 86,
+      "property_id": 16,
+      "unit_number": "A repeat item was refunded the same day.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 1866.96
+    },
+    {
+      "id": 87,
+      "property_id": 38,
+      "unit_number": "An unusual follow-up: the claim was rejected.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 3362.51
+    },
+    {
+      "id": 88,
+      "property_id": 62,
+      "unit_number": "A late appointment was reopened the same day.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 2268.59
+    },
+    {
+      "id": 89,
+      "property_id": 19,
+      "unit_number": "The order was rescheduled after an incomplete check.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 1817.03
+    },
+    {
+      "id": 90,
+      "property_id": 93,
+      "unit_number": "No response from the account owner, so the item was cancelled.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 1146.13
+    },
+    {
+      "id": 91,
+      "property_id": 91,
+      "unit_number": "The payment was refunded — routine case, no further action.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 2726.72
+    },
+    {
+      "id": 92,
+      "property_id": 55,
+      "unit_number": "No response from the team, so the invoice was escalated.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 1641.2
+    },
+    {
+      "id": 93,
+      "property_id": 75,
+      "unit_number": "No response from support, so the invoice was processed.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 1677.11
+    },
+    {
+      "id": 94,
+      "property_id": 35,
+      "unit_number": "The transfer was replaced following an automatic review.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 2617.05
+    },
+    {
+      "id": 95,
+      "property_id": 29,
+      "unit_number": "Flagged as late. The account owner approved the appointment.",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 1047.13
+    },
+    {
+      "id": 96,
+      "property_id": 5,
+      "unit_number": "The payment was replaced after an unusual check.",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 872.32
+    },
+    {
+      "id": 97,
+      "property_id": 83,
+      "unit_number": "The booking was rejected following a standard review.",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 1804.04
+    },
+    {
+      "id": 98,
+      "property_id": 84,
+      "unit_number": "A standard follow-up: the transfer was reopened.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 1952.96
+    },
+    {
+      "id": 99,
+      "property_id": 78,
+      "unit_number": "No response from an operator, so the record was processed.",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 1781.09
+    },
+    {
+      "id": 100,
+      "property_id": 97,
+      "unit_number": null,
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 1037.92
+    },
+    {
+      "id": 101,
+      "property_id": 28,
+      "unit_number": null,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 1292.58
+    },
+    {
+      "id": 102,
+      "property_id": 55,
+      "unit_number": "The delivery was closed following a minor review.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 3238.21
+    },
+    {
+      "id": 103,
+      "property_id": 92,
+      "unit_number": "An unusual follow-up: the transfer was updated.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 833.34
+    },
+    {
+      "id": 104,
+      "property_id": 16,
+      "unit_number": "The payment was cancelled following a routine review.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 1002.62
+    },
+    {
+      "id": 105,
+      "property_id": 21,
+      "unit_number": "The payment was confirmed — urgent case, no further action.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 3191.41
+    },
+    {
+      "id": 106,
+      "property_id": 64,
+      "unit_number": "An operator asked for a change and the record was replaced.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 2176.26
+    },
+    {
+      "id": 107,
+      "property_id": 69,
+      "unit_number": "No response from the supplier, so the booking was closed.",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 1049.54
+    },
+    {
+      "id": 108,
+      "property_id": 65,
+      "unit_number": "A minor shipment was confirmed the same day.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 3173.67
+    },
+    {
+      "id": 109,
+      "property_id": 46,
+      "unit_number": "The invoice was closed after a duplicate check.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 3133.82
+    },
+    {
+      "id": 110,
+      "property_id": 58,
+      "unit_number": "A duplicate order was rejected the same day.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 1948.76
+    },
+    {
+      "id": 111,
+      "property_id": 57,
+      "unit_number": "The report was rejected after an incomplete check.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 1806.86
+    },
+    {
+      "id": 112,
+      "property_id": 91,
+      "unit_number": "The delivery was updated following an automatic review.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 1118.47
+    },
+    {
+      "id": 113,
+      "property_id": 31,
+      "unit_number": "The payment was processed after a manual check.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 1518.73
+    },
+    {
+      "id": 114,
+      "property_id": 93,
+      "unit_number": "A routine follow-up: the record was approved.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 1746.17
+    },
+    {
+      "id": 115,
+      "property_id": 77,
+      "unit_number": "The account was refunded — urgent case, no further action.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 1236.87
+    },
+    {
+      "id": 116,
+      "property_id": 77,
+      "unit_number": "Flagged as routine. Support confirmed the refund.",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 2254.75
+    },
+    {
+      "id": 117,
+      "property_id": 69,
+      "unit_number": "No response from the courier, so the item was closed.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 800.27
+    },
+    {
+      "id": 118,
+      "property_id": 28,
+      "unit_number": null,
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 1454.57
+    },
+    {
+      "id": 119,
+      "property_id": 52,
+      "unit_number": "An automatic follow-up: the session was closed.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 803.22
+    },
+    {
+      "id": 120,
+      "property_id": 94,
+      "unit_number": "The order was refunded after a manual check.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 2634.88
+    },
+    {
+      "id": 121,
+      "property_id": 66,
+      "unit_number": null,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 808.06
+    },
+    {
+      "id": 122,
+      "property_id": 67,
+      "unit_number": "The document was completed following an urgent review.",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "rent_price": 1401.51
+    },
+    {
+      "id": 123,
+      "property_id": 94,
+      "unit_number": "Flagged as automatic. The reviewer processed the order.",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "rent_price": 2730.65
+    },
+    {
+      "id": 124,
+      "property_id": 2,
+      "unit_number": "A late follow-up: the record was replaced.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 1140.77
+    },
+    {
+      "id": 125,
+      "property_id": 37,
+      "unit_number": "The appointment was replaced following an unusual review.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 1979.66
+    },
+    {
+      "id": 126,
+      "property_id": 88,
+      "unit_number": "The supplier reported a standard issue; the record was escalated.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 2639.74
+    },
+    {
+      "id": 127,
+      "property_id": 49,
+      "unit_number": "The shipment was delayed after an urgent check.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 1638.57
+    },
+    {
+      "id": 128,
+      "property_id": 9,
+      "unit_number": "The request was refunded — incomplete case, no further action.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 938.48
+    },
+    {
+      "id": 129,
+      "property_id": 50,
+      "unit_number": "The record was reopened after an incomplete check.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 806.75
+    },
+    {
+      "id": 130,
+      "property_id": 65,
+      "unit_number": "An unusual order was completed the same day.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 1662.01
+    },
+    {
+      "id": 131,
+      "property_id": 77,
+      "unit_number": "An operator reported an incomplete issue; the payment was cancelled.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 815.38
+    },
+    {
+      "id": 132,
+      "property_id": 44,
+      "unit_number": "An operator asked for a change and the payment was rescheduled.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 2744.47
+    },
+    {
+      "id": 133,
+      "property_id": 65,
+      "unit_number": "The supplier confirmed the details and the account was reviewed.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 1042.48
+    },
+    {
+      "id": 134,
+      "property_id": 73,
+      "unit_number": "An incomplete invoice was reopened the same day.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 1697.73
+    },
+    {
+      "id": 135,
+      "property_id": 14,
+      "unit_number": "The team confirmed the details and the payment was confirmed.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 1880.74
+    },
+    {
+      "id": 136,
+      "property_id": 26,
+      "unit_number": "No response from the courier, so the item was replaced.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 1930.24
+    },
+    {
+      "id": 137,
+      "property_id": 16,
+      "unit_number": "An incomplete item was approved the same day.",
+      "bedrooms": 5,
+      "bathrooms": 1,
+      "rent_price": 3137.96
+    },
+    {
+      "id": 138,
+      "property_id": 83,
+      "unit_number": "Flagged as urgent. The team reviewed the order.",
+      "bedrooms": 5,
+      "bathrooms": 1,
+      "rent_price": 3143.08
+    },
+    {
+      "id": 139,
+      "property_id": 22,
+      "unit_number": "The session was replaced following a routine review.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 1261.79
+    },
+    {
+      "id": 140,
+      "property_id": 49,
+      "unit_number": "Flagged as automatic. The courier completed the session.",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rent_price": 934.84
+    },
+    {
+      "id": 141,
+      "property_id": 44,
+      "unit_number": "The supplier reported a standard issue; the transfer was delayed.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 1920.47
+    },
+    {
+      "id": 142,
+      "property_id": 1,
+      "unit_number": "The courier confirmed the details and the transfer was reopened.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 1851.48
+    },
+    {
+      "id": 143,
+      "property_id": 38,
+      "unit_number": "The invoice was completed — standard case, no further action.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 810.02
+    },
+    {
+      "id": 144,
+      "property_id": 25,
+      "unit_number": "Support asked for a change and the ticket was resolved.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 1785.79
+    },
+    {
+      "id": 145,
+      "property_id": 24,
+      "unit_number": "No response from the account owner, so the item was confirmed.",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 951.66
+    },
+    {
+      "id": 146,
+      "property_id": 88,
+      "unit_number": null,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 818.17
+    },
+    {
+      "id": 147,
+      "property_id": 100,
+      "unit_number": "The account owner reported an urgent issue; the request was updated.",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "rent_price": 1114.41
+    },
+    {
+      "id": 148,
+      "property_id": 59,
+      "unit_number": "A routine record was delayed the same day.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 2871.4
+    },
+    {
+      "id": 149,
+      "property_id": 94,
+      "unit_number": "The customer asked for a change and the transfer was escalated.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 1867.42
+    },
+    {
+      "id": 150,
+      "property_id": 36,
+      "unit_number": "Flagged as routine. The supplier resolved the record.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 821.08
+    },
+    {
+      "id": 151,
+      "property_id": 7,
+      "unit_number": "An unusual report was processed the same day.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 3245.6
+    },
+    {
+      "id": 152,
+      "property_id": 46,
+      "unit_number": "Support asked for a change and the invoice was completed.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 2965.29
+    },
+    {
+      "id": 153,
+      "property_id": 26,
+      "unit_number": "The document was refunded — late case, no further action.",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "rent_price": 818.94
+    },
+    {
+      "id": 154,
+      "property_id": 78,
+      "unit_number": "A repeat follow-up: the order was delayed.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 1215.47
+    },
+    {
+      "id": 155,
+      "property_id": 57,
+      "unit_number": "A late request was approved the same day.",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "rent_price": 1283.02
+    },
+    {
+      "id": 156,
+      "property_id": 24,
+      "unit_number": "The courier asked for a change and the payment was resolved.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 3307.76
+    },
+    {
+      "id": 157,
+      "property_id": 22,
+      "unit_number": "The supplier confirmed the details and the document was resolved.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 1137.51
+    },
+    {
+      "id": 158,
+      "property_id": 4,
+      "unit_number": "Flagged as unusual. The courier completed the refund.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 1744.52
+    },
+    {
+      "id": 159,
+      "property_id": 51,
+      "unit_number": "A repeat follow-up: the delivery was approved.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 837
+    },
+    {
+      "id": 160,
+      "property_id": 63,
+      "unit_number": "Support asked for a change and the refund was completed.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 3414.88
+    },
+    {
+      "id": 161,
+      "property_id": 14,
+      "unit_number": "The invoice was completed following a routine review.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 900.12
+    },
+    {
+      "id": 162,
+      "property_id": 99,
+      "unit_number": "A duplicate follow-up: the payment was replaced.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 920.32
+    },
+    {
+      "id": 163,
+      "property_id": 30,
+      "unit_number": "The ticket was escalated after a minor check.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 2462.43
+    },
+    {
+      "id": 164,
+      "property_id": 40,
+      "unit_number": "The reviewer confirmed the details and the order was cancelled.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 800.28
+    },
+    {
+      "id": 165,
+      "property_id": 83,
+      "unit_number": "The ticket was updated following an incomplete review.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 847.37
+    },
+    {
+      "id": 166,
+      "property_id": 71,
+      "unit_number": "A standard booking was rejected the same day.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 2107.66
+    },
+    {
+      "id": 167,
+      "property_id": 9,
+      "unit_number": "The booking was completed after an incomplete check.",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "rent_price": 947.23
+    },
+    {
+      "id": 168,
+      "property_id": 26,
+      "unit_number": "An urgent session was completed the same day.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 829.71
+    },
+    {
+      "id": 169,
+      "property_id": 84,
+      "unit_number": "The courier reported an automatic issue; the request was replaced.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 800.34
+    },
+    {
+      "id": 170,
+      "property_id": 100,
+      "unit_number": "The appointment was delayed after a manual check.",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 2183.83
+    },
+    {
+      "id": 171,
+      "property_id": 3,
+      "unit_number": "The team asked for a change and the refund was processed.",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 2417.98
+    },
+    {
+      "id": 172,
+      "property_id": 39,
+      "unit_number": "The appointment was reopened following a manual review.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 3043.24
+    },
+    {
+      "id": 173,
+      "property_id": 17,
+      "unit_number": null,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 1099.85
+    },
+    {
+      "id": 174,
+      "property_id": 12,
+      "unit_number": "The document was updated following a routine review.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 1431.78
+    },
+    {
+      "id": 175,
+      "property_id": 28,
+      "unit_number": "The ticket was confirmed after a repeat check.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 1890.13
+    },
+    {
+      "id": 176,
+      "property_id": 21,
+      "unit_number": "No response from the account owner, so the payment was delayed.",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 2667.95
+    },
+    {
+      "id": 177,
+      "property_id": 83,
+      "unit_number": null,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 1453.45
+    },
+    {
+      "id": 178,
+      "property_id": 73,
+      "unit_number": "The reviewer reported a repeat issue; the request was replaced.",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "rent_price": 1787.19
+    },
+    {
+      "id": 179,
+      "property_id": 78,
+      "unit_number": null,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 1219.73
+    },
+    {
+      "id": 180,
+      "property_id": 9,
+      "unit_number": "The request was completed — late case, no further action.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 1687.35
+    },
+    {
+      "id": 181,
+      "property_id": 73,
+      "unit_number": "The account was updated after an urgent check.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 804.4
+    },
+    {
+      "id": 182,
+      "property_id": 68,
+      "unit_number": "The claim was confirmed following a manual review.",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rent_price": 1427.58
+    },
+    {
+      "id": 183,
+      "property_id": 31,
+      "unit_number": "Flagged as minor. The account owner updated the record.",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rent_price": 1828.74
+    },
+    {
+      "id": 184,
+      "property_id": 37,
+      "unit_number": null,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 1569.51
+    },
+    {
+      "id": 185,
+      "property_id": 47,
+      "unit_number": "A minor request was delayed the same day.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 1885.89
+    },
+    {
+      "id": 186,
+      "property_id": 58,
+      "unit_number": "The courier asked for a change and the delivery was approved.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 2317.08
+    },
+    {
+      "id": 187,
+      "property_id": 51,
+      "unit_number": "The team reported an unusual issue; the booking was refunded.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 903.32
+    },
+    {
+      "id": 188,
+      "property_id": 72,
+      "unit_number": "The claim was cancelled following a standard review.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 3082.05
+    },
+    {
+      "id": 189,
+      "property_id": 39,
+      "unit_number": "The reviewer asked for a change and the ticket was completed.",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rent_price": 2617.53
+    },
+    {
+      "id": 190,
+      "property_id": 47,
+      "unit_number": "The report was confirmed following a manual review.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 810.9
+    },
+    {
+      "id": 191,
+      "property_id": 65,
+      "unit_number": "The supplier asked for a change and the refund was completed.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 3189.59
+    },
+    {
+      "id": 192,
+      "property_id": 2,
+      "unit_number": "Flagged as repeat. The team delayed the invoice.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 3230.45
+    },
+    {
+      "id": 193,
+      "property_id": 96,
+      "unit_number": "Support confirmed the details and the report was escalated.",
+      "bedrooms": 5,
+      "bathrooms": 1,
+      "rent_price": 875.15
+    },
+    {
+      "id": 194,
+      "property_id": 31,
+      "unit_number": "The order was rejected — partial case, no further action.",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 1159.59
+    },
+    {
+      "id": 195,
+      "property_id": 72,
+      "unit_number": null,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rent_price": 804.95
+    },
+    {
+      "id": 196,
+      "property_id": 49,
+      "unit_number": "The refund was escalated following an urgent review.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 1781.16
+    },
+    {
+      "id": 197,
+      "property_id": 66,
+      "unit_number": "An automatic request was approved the same day.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 3167.77
+    },
+    {
+      "id": 198,
+      "property_id": 81,
+      "unit_number": "A duplicate follow-up: the refund was delayed.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rent_price": 1082.99
+    },
+    {
+      "id": 199,
+      "property_id": 93,
+      "unit_number": "An urgent follow-up: the payment was approved.",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rent_price": 3291.48
+    },
+    {
+      "id": 200,
+      "property_id": 20,
+      "unit_number": "The transfer was escalated following a minor review.",
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rent_price": 1026.39
+    }
+  ],
+  "maintenance_requests": [
+    {
+      "id": 1,
+      "unit_id": 3,
+      "request_date": "2023-12-02",
+      "description": "No response from the courier, so the account was resolved.",
+      "priority": "high"
+    },
+    {
+      "id": 2,
+      "unit_id": 73,
+      "request_date": "2021-08-19",
+      "description": null,
+      "priority": "low"
+    },
+    {
+      "id": 3,
+      "unit_id": 142,
+      "request_date": "2020-02-16",
+      "description": "The payment was confirmed after a late check.",
+      "priority": "medium"
+    },
+    {
+      "id": 4,
+      "unit_id": 183,
+      "request_date": "2022-05-04",
+      "description": "Flagged as partial. The team reviewed the booking.",
+      "priority": "low"
+    },
+    {
+      "id": 5,
+      "unit_id": 147,
+      "request_date": "2020-10-17",
+      "description": "A late follow-up: the ticket was escalated.",
+      "priority": "medium"
+    },
+    {
+      "id": 6,
+      "unit_id": 175,
+      "request_date": "2022-07-05",
+      "description": "The customer asked for a change and the request was confirmed.",
+      "priority": "high"
+    },
+    {
+      "id": 7,
+      "unit_id": 40,
+      "request_date": "2022-04-12",
+      "description": "Support confirmed the details and the record was updated.",
+      "priority": "medium"
+    },
+    {
+      "id": 8,
+      "unit_id": 99,
+      "request_date": "2022-10-26",
+      "description": "The payment was rejected following a minor review.",
+      "priority": "low"
+    },
+    {
+      "id": 9,
+      "unit_id": 106,
+      "request_date": "2023-07-24",
+      "description": "A late delivery was approved the same day.",
+      "priority": "low"
+    },
+    {
+      "id": 10,
+      "unit_id": 195,
+      "request_date": "2020-01-05",
+      "description": "The booking was escalated following an urgent review.",
+      "priority": "low"
+    },
+    {
+      "id": 11,
+      "unit_id": 41,
+      "request_date": "2023-09-26",
+      "description": "The customer asked for a change and the document was closed.",
+      "priority": "medium"
+    },
+    {
+      "id": 12,
+      "unit_id": 116,
+      "request_date": "2021-09-15",
+      "description": "Flagged as unusual. The supplier resolved the report.",
+      "priority": "low"
+    },
+    {
+      "id": 13,
+      "unit_id": 128,
+      "request_date": "2022-12-26",
+      "description": "The item was confirmed — late case, no further action.",
+      "priority": "low"
+    },
+    {
+      "id": 14,
+      "unit_id": 70,
+      "request_date": "2021-12-15",
+      "description": "The account owner confirmed the details and the document was replaced.",
+      "priority": "low"
+    },
+    {
+      "id": 15,
+      "unit_id": 65,
+      "request_date": "2022-11-25",
+      "description": "The item was resolved following a late review.",
+      "priority": "low"
+    },
+    {
+      "id": 16,
+      "unit_id": 150,
+      "request_date": "2020-01-16",
+      "description": "The invoice was cancelled — routine case, no further action.",
+      "priority": "low"
+    },
+    {
+      "id": 17,
+      "unit_id": 60,
+      "request_date": "2023-02-01",
+      "description": "The courier asked for a change and the account was reviewed.",
+      "priority": "low"
+    },
+    {
+      "id": 18,
+      "unit_id": 49,
+      "request_date": "2022-08-28",
+      "description": "A partial follow-up: the delivery was resolved.",
+      "priority": "low"
+    },
+    {
+      "id": 19,
+      "unit_id": 11,
+      "request_date": "2021-10-05",
+      "description": "The supplier reported a routine issue; the booking was reopened.",
+      "priority": "medium"
+    },
+    {
+      "id": 20,
+      "unit_id": 131,
+      "request_date": "2020-11-20",
+      "description": "No response from support, so the document was confirmed.",
+      "priority": "low"
+    },
+    {
+      "id": 21,
+      "unit_id": 28,
+      "request_date": "2021-05-01",
+      "description": "A minor follow-up: the document was escalated.",
+      "priority": "high"
+    },
+    {
+      "id": 22,
+      "unit_id": 169,
+      "request_date": "2022-06-01",
+      "description": "No response from the supplier, so the delivery was closed.",
+      "priority": "low"
+    },
+    {
+      "id": 23,
+      "unit_id": 15,
+      "request_date": "2022-12-03",
+      "description": "The item was escalated after an automatic check.",
+      "priority": "medium"
+    },
+    {
+      "id": 24,
+      "unit_id": 22,
+      "request_date": "2023-09-14",
+      "description": "An unusual follow-up: the document was rejected.",
+      "priority": "high"
+    },
+    {
+      "id": 25,
+      "unit_id": 143,
+      "request_date": "2022-06-24",
+      "description": "A repeat follow-up: the item was replaced.",
+      "priority": "high"
+    },
+    {
+      "id": 26,
+      "unit_id": 16,
+      "request_date": "2023-11-12",
+      "description": "The appointment was approved — partial case, no further action.",
+      "priority": "low"
+    },
+    {
+      "id": 27,
+      "unit_id": 145,
+      "request_date": "2021-02-08",
+      "description": "Support confirmed the details and the request was rescheduled.",
+      "priority": "low"
+    },
+    {
+      "id": 28,
+      "unit_id": 143,
+      "request_date": "2022-10-11",
+      "description": "An operator asked for a change and the ticket was cancelled.",
+      "priority": "low"
+    },
+    {
+      "id": 29,
+      "unit_id": 4,
+      "request_date": "2021-05-21",
+      "description": "A standard item was reopened the same day.",
+      "priority": "medium"
+    },
+    {
+      "id": 30,
+      "unit_id": 45,
+      "request_date": "2023-06-04",
+      "description": "Flagged as manual. The reviewer rescheduled the ticket.",
+      "priority": "medium"
+    },
+    {
+      "id": 31,
+      "unit_id": 53,
+      "request_date": "2021-02-07",
+      "description": null,
+      "priority": "high"
+    },
+    {
+      "id": 32,
+      "unit_id": 177,
+      "request_date": "2023-01-29",
+      "description": "The report was cancelled — minor case, no further action.",
+      "priority": "low"
+    },
+    {
+      "id": 33,
+      "unit_id": 33,
+      "request_date": "2020-09-14",
+      "description": "Support reported an incomplete issue; the document was resolved.",
+      "priority": "low"
+    },
+    {
+      "id": 34,
+      "unit_id": 49,
+      "request_date": "2022-10-27",
+      "description": "The account owner asked for a change and the delivery was reopened.",
+      "priority": "medium"
+    },
+    {
+      "id": 35,
+      "unit_id": 182,
+      "request_date": "2021-11-15",
+      "description": "No response from the account owner, so the invoice was confirmed.",
+      "priority": "low"
+    },
+    {
+      "id": 36,
+      "unit_id": 31,
+      "request_date": "2020-11-08",
+      "description": "No response from support, so the item was replaced.",
+      "priority": "medium"
+    },
+    {
+      "id": 37,
+      "unit_id": 199,
+      "request_date": "2022-10-19",
+      "description": "The booking was delayed following a manual review.",
+      "priority": "high"
+    },
+    {
+      "id": 38,
+      "unit_id": 146,
+      "request_date": "2023-07-28",
+      "description": null,
+      "priority": "low"
+    },
+    {
+      "id": 39,
+      "unit_id": 69,
+      "request_date": "2023-01-11",
+      "description": "The team confirmed the details and the claim was reopened.",
+      "priority": "low"
+    },
+    {
+      "id": 40,
+      "unit_id": 96,
+      "request_date": "2021-03-24",
+      "description": "The payment was escalated following a routine review.",
+      "priority": "low"
+    },
+    {
+      "id": 41,
+      "unit_id": 120,
+      "request_date": "2023-08-27",
+      "description": null,
+      "priority": "low"
+    },
+    {
+      "id": 42,
+      "unit_id": 16,
+      "request_date": "2020-08-30",
+      "description": "An urgent follow-up: the account was resolved.",
+      "priority": "medium"
+    },
+    {
+      "id": 43,
+      "unit_id": 55,
+      "request_date": "2022-01-15",
+      "description": "The delivery was replaced — routine case, no further action.",
+      "priority": "high"
+    },
+    {
+      "id": 44,
+      "unit_id": 139,
+      "request_date": "2023-08-22",
+      "description": "The account owner reported a partial issue; the request was resolved.",
+      "priority": "medium"
+    },
+    {
+      "id": 45,
+      "unit_id": 25,
+      "request_date": "2023-08-03",
+      "description": "The team asked for a change and the claim was updated.",
+      "priority": "low"
+    },
+    {
+      "id": 46,
+      "unit_id": 198,
+      "request_date": "2020-02-16",
+      "description": null,
+      "priority": "high"
+    },
+    {
+      "id": 47,
+      "unit_id": 101,
+      "request_date": "2021-08-23",
+      "description": "The account was replaced following a repeat review.",
+      "priority": "medium"
+    },
+    {
+      "id": 48,
+      "unit_id": 87,
+      "request_date": "2021-08-09",
+      "description": "No response from the courier, so the refund was approved.",
+      "priority": "medium"
+    },
+    {
+      "id": 49,
+      "unit_id": 18,
+      "request_date": "2020-08-12",
+      "description": "The record was reviewed — duplicate case, no further action.",
+      "priority": "medium"
+    },
+    {
+      "id": 50,
+      "unit_id": 127,
+      "request_date": "2022-05-10",
+      "description": "The reviewer reported an unusual issue; the record was closed.",
+      "priority": "medium"
+    },
+    {
+      "id": 51,
+      "unit_id": 97,
+      "request_date": "2023-07-30",
+      "description": "An operator reported a manual issue; the report was approved.",
+      "priority": "low"
+    },
+    {
+      "id": 52,
+      "unit_id": 87,
+      "request_date": "2020-01-13",
+      "description": null,
+      "priority": "low"
+    },
+    {
+      "id": 53,
+      "unit_id": 24,
+      "request_date": "2022-10-29",
+      "description": "The customer asked for a change and the appointment was escalated.",
+      "priority": "low"
+    },
+    {
+      "id": 54,
+      "unit_id": 42,
+      "request_date": "2020-12-01",
+      "description": "The report was reviewed after a late check.",
+      "priority": "medium"
+    },
+    {
+      "id": 55,
+      "unit_id": 77,
+      "request_date": "2020-07-20",
+      "description": "No response from the supplier, so the request was refunded.",
+      "priority": "low"
+    },
+    {
+      "id": 56,
+      "unit_id": 87,
+      "request_date": "2021-08-31",
+      "description": "The delivery was cancelled after a duplicate check.",
+      "priority": "medium"
+    },
+    {
+      "id": 57,
+      "unit_id": 46,
+      "request_date": "2020-04-19",
+      "description": "The session was delayed following a duplicate review.",
+      "priority": "low"
+    },
+    {
+      "id": 58,
+      "unit_id": 99,
+      "request_date": "2021-07-28",
+      "description": "The transfer was closed following a manual review.",
+      "priority": "low"
+    },
+    {
+      "id": 59,
+      "unit_id": 36,
+      "request_date": "2021-12-25",
+      "description": "The item was escalated following a duplicate review.",
+      "priority": "low"
+    },
+    {
+      "id": 60,
+      "unit_id": 82,
+      "request_date": "2022-12-30",
+      "description": "The shipment was confirmed following a late review.",
+      "priority": "low"
+    },
+    {
+      "id": 61,
+      "unit_id": 128,
+      "request_date": "2022-09-24",
+      "description": null,
+      "priority": "high"
+    },
+    {
+      "id": 62,
+      "unit_id": 71,
+      "request_date": "2023-11-03",
+      "description": "The supplier reported a routine issue; the invoice was approved.",
+      "priority": "low"
+    },
+    {
+      "id": 63,
+      "unit_id": 120,
+      "request_date": "2022-10-06",
+      "description": "The account owner reported a partial issue; the transfer was resolved.",
+      "priority": "low"
+    },
+    {
+      "id": 64,
+      "unit_id": 110,
+      "request_date": "2022-12-16",
+      "description": "The booking was rejected — late case, no further action.",
+      "priority": "low"
+    },
+    {
+      "id": 65,
+      "unit_id": 66,
+      "request_date": "2021-11-04",
+      "description": "Flagged as duplicate. An operator cancelled the booking.",
+      "priority": "medium"
+    },
+    {
+      "id": 66,
+      "unit_id": 184,
+      "request_date": "2022-02-09",
+      "description": "An unusual invoice was completed the same day.",
+      "priority": "medium"
+    },
+    {
+      "id": 67,
+      "unit_id": 97,
+      "request_date": "2023-05-20",
+      "description": "No response from the customer, so the appointment was completed.",
+      "priority": "medium"
+    },
+    {
+      "id": 68,
+      "unit_id": 12,
+      "request_date": "2021-11-20",
+      "description": "No response from support, so the transfer was processed.",
+      "priority": "medium"
+    },
+    {
+      "id": 69,
+      "unit_id": 113,
+      "request_date": "2021-08-09",
+      "description": "The claim was refunded after a routine check.",
+      "priority": "low"
+    },
+    {
+      "id": 70,
+      "unit_id": 140,
+      "request_date": "2021-11-21",
+      "description": "The account owner confirmed the details and the ticket was approved.",
+      "priority": "medium"
+    },
+    {
+      "id": 71,
+      "unit_id": 164,
+      "request_date": "2020-09-11",
+      "description": "Flagged as automatic. The courier rejected the payment.",
+      "priority": "low"
+    },
+    {
+      "id": 72,
+      "unit_id": 84,
+      "request_date": "2021-10-24",
+      "description": "A routine item was resolved the same day.",
+      "priority": "high"
+    },
+    {
+      "id": 73,
+      "unit_id": 100,
+      "request_date": "2023-04-05",
+      "description": "The account was reviewed following an urgent review.",
+      "priority": "medium"
+    },
+    {
+      "id": 74,
+      "unit_id": 41,
+      "request_date": "2023-06-17",
+      "description": "The reviewer asked for a change and the ticket was delayed.",
+      "priority": "medium"
+    },
+    {
+      "id": 75,
+      "unit_id": 102,
+      "request_date": "2021-08-16",
+      "description": "The shipment was reopened — late case, no further action.",
+      "priority": "high"
+    },
+    {
+      "id": 76,
+      "unit_id": 185,
+      "request_date": "2021-10-06",
+      "description": "The appointment was resolved following an unusual review.",
+      "priority": "low"
+    },
+    {
+      "id": 77,
+      "unit_id": 35,
+      "request_date": "2021-11-21",
+      "description": "No response from support, so the order was cancelled.",
+      "priority": "low"
+    },
+    {
+      "id": 78,
+      "unit_id": 48,
+      "request_date": "2022-10-13",
+      "description": "The shipment was confirmed after a manual check.",
+      "priority": "low"
+    },
+    {
+      "id": 79,
+      "unit_id": 49,
+      "request_date": "2023-09-11",
+      "description": "The order was reopened following a standard review.",
+      "priority": "medium"
+    },
+    {
+      "id": 80,
+      "unit_id": 60,
+      "request_date": "2022-03-26",
+      "description": "No response from support, so the booking was rejected.",
+      "priority": "low"
+    },
+    {
+      "id": 81,
+      "unit_id": 89,
+      "request_date": "2021-04-20",
+      "description": null,
+      "priority": "medium"
+    },
+    {
+      "id": 82,
+      "unit_id": 59,
+      "request_date": "2021-07-25",
+      "description": "The document was reviewed — late case, no further action.",
+      "priority": "medium"
+    },
+    {
+      "id": 83,
+      "unit_id": 147,
+      "request_date": "2021-11-26",
+      "description": "The supplier confirmed the details and the ticket was approved.",
+      "priority": "low"
+    },
+    {
+      "id": 84,
+      "unit_id": 166,
+      "request_date": "2023-12-08",
+      "description": "A partial transfer was confirmed the same day.",
+      "priority": "medium"
+    },
+    {
+      "id": 85,
+      "unit_id": 192,
+      "request_date": "2020-07-22",
+      "description": "The order was cancelled after a minor check.",
+      "priority": "low"
+    },
+    {
+      "id": 86,
+      "unit_id": 195,
+      "request_date": "2021-09-12",
+      "description": null,
+      "priority": "low"
+    },
+    {
+      "id": 87,
+      "unit_id": 126,
+      "request_date": "2021-10-21",
+      "description": "A minor follow-up: the item was processed.",
+      "priority": "medium"
+    },
+    {
+      "id": 88,
+      "unit_id": 152,
+      "request_date": "2021-01-31",
+      "description": "An automatic document was escalated the same day.",
+      "priority": "medium"
+    },
+    {
+      "id": 89,
+      "unit_id": 184,
+      "request_date": "2023-05-29",
+      "description": "The order was refunded after an unusual check.",
+      "priority": "low"
+    },
+    {
+      "id": 90,
+      "unit_id": 5,
+      "request_date": "2022-01-27",
+      "description": "The request was escalated — manual case, no further action.",
+      "priority": "low"
+    },
+    {
+      "id": 91,
+      "unit_id": 11,
+      "request_date": "2022-11-27",
+      "description": null,
+      "priority": "low"
+    },
+    {
+      "id": 92,
+      "unit_id": 26,
+      "request_date": "2020-09-03",
+      "description": "An operator asked for a change and the delivery was replaced.",
+      "priority": "low"
+    },
+    {
+      "id": 93,
+      "unit_id": 195,
+      "request_date": "2021-03-03",
+      "description": null,
+      "priority": "medium"
+    },
+    {
+      "id": 94,
+      "unit_id": 60,
+      "request_date": "2023-08-12",
+      "description": "No response from the team, so the delivery was confirmed.",
+      "priority": "low"
+    },
+    {
+      "id": 95,
+      "unit_id": 131,
+      "request_date": "2023-11-25",
+      "description": "The account owner confirmed the details and the item was rescheduled.",
+      "priority": "low"
+    },
+    {
+      "id": 96,
+      "unit_id": 168,
+      "request_date": "2023-12-20",
+      "description": null,
+      "priority": "medium"
+    },
+    {
+      "id": 97,
+      "unit_id": 76,
+      "request_date": "2023-04-18",
+      "description": "Flagged as manual. The supplier processed the transfer.",
+      "priority": "high"
+    },
+    {
+      "id": 98,
+      "unit_id": 97,
+      "request_date": "2022-04-01",
+      "description": "Flagged as incomplete. Support reopened the session.",
+      "priority": "medium"
+    },
+    {
+      "id": 99,
+      "unit_id": 93,
+      "request_date": "2022-03-15",
+      "description": "No response from an operator, so the ticket was closed.",
+      "priority": "low"
+    },
+    {
+      "id": 100,
+      "unit_id": 86,
+      "request_date": "2023-04-10",
+      "description": "The appointment was reopened following a partial review.",
+      "priority": "low"
+    }
+  ],
+  "tenancies": [
+    {
+      "id": 1,
+      "unit_id": 151,
+      "tenant_name": null,
+      "start_date": "2023-06-20",
+      "end_date": "2023-06-26"
+    },
+    {
+      "id": 2,
+      "unit_id": 162,
+      "tenant_name": "Lena Wagner",
+      "start_date": "2023-10-14",
+      "end_date": "2024-01-08"
+    },
+    {
+      "id": 3,
+      "unit_id": 56,
+      "tenant_name": "Sofia Moreau",
+      "start_date": "2022-03-20",
+      "end_date": "2022-11-24"
+    },
+    {
+      "id": 4,
+      "unit_id": 89,
+      "tenant_name": "Emma Mendes",
+      "start_date": "2023-05-03",
+      "end_date": "2024-04-07"
+    },
+    {
+      "id": 5,
+      "unit_id": 23,
+      "tenant_name": "Maria Lee",
+      "start_date": "2023-04-08",
+      "end_date": "2024-01-06"
+    },
+    {
+      "id": 6,
+      "unit_id": 65,
+      "tenant_name": "Sven Wilson",
+      "start_date": "2020-12-17",
+      "end_date": "2021-11-11"
+    },
+    {
+      "id": 7,
+      "unit_id": 171,
+      "tenant_name": "Mateo Pereira",
+      "start_date": "2022-12-22",
+      "end_date": "2023-02-02"
+    },
+    {
+      "id": 8,
+      "unit_id": 199,
+      "tenant_name": "Zoe Meyer",
+      "start_date": "2023-06-26",
+      "end_date": "2023-09-04"
+    },
+    {
+      "id": 9,
+      "unit_id": 76,
+      "tenant_name": "Tariq Sato",
+      "start_date": "2021-03-28",
+      "end_date": "2021-09-07"
+    },
+    {
+      "id": 10,
+      "unit_id": 45,
+      "tenant_name": "Paula Oliveira",
+      "start_date": "2020-07-24",
+      "end_date": "2020-11-02"
+    },
+    {
+      "id": 11,
+      "unit_id": 60,
+      "tenant_name": "Zara Tanaka",
+      "start_date": "2022-05-21",
+      "end_date": "2022-06-19"
+    },
+    {
+      "id": 12,
+      "unit_id": 164,
+      "tenant_name": "Amir Wagner",
+      "start_date": "2023-02-27",
+      "end_date": "2023-04-27"
+    },
+    {
+      "id": 13,
+      "unit_id": 75,
+      "tenant_name": "Hugo Garcia",
+      "start_date": "2023-01-01",
+      "end_date": "2023-01-10"
+    },
+    {
+      "id": 14,
+      "unit_id": 17,
+      "tenant_name": "Zoe Schneider",
+      "start_date": "2020-02-15",
+      "end_date": "2020-09-01"
+    },
+    {
+      "id": 15,
+      "unit_id": 79,
+      "tenant_name": "Hannah Tanaka",
+      "start_date": "2022-01-01",
+      "end_date": "2022-08-21"
+    },
+    {
+      "id": 16,
+      "unit_id": 171,
+      "tenant_name": "Hana Wright",
+      "start_date": "2022-05-01",
+      "end_date": "2023-01-28"
+    },
+    {
+      "id": 17,
+      "unit_id": 183,
+      "tenant_name": "Maria Ruiz",
+      "start_date": "2020-01-03",
+      "end_date": "2020-02-28"
+    },
+    {
+      "id": 18,
+      "unit_id": 171,
+      "tenant_name": "Andre Castro",
+      "start_date": "2023-12-18",
+      "end_date": "2024-03-30"
+    },
+    {
+      "id": 19,
+      "unit_id": 13,
+      "tenant_name": "Ana Bennett",
+      "start_date": "2022-09-04",
+      "end_date": "2023-01-29"
+    },
+    {
+      "id": 20,
+      "unit_id": 158,
+      "tenant_name": "Kai Kowalski",
+      "start_date": "2021-09-25",
+      "end_date": "2022-09-06"
+    },
+    {
+      "id": 21,
+      "unit_id": 156,
+      "tenant_name": null,
+      "start_date": "2021-12-11",
+      "end_date": "2022-01-03"
+    },
+    {
+      "id": 22,
+      "unit_id": 37,
+      "tenant_name": "Sofia Hansen",
+      "start_date": "2021-05-07",
+      "end_date": "2022-02-26"
+    },
+    {
+      "id": 23,
+      "unit_id": 142,
+      "tenant_name": "Julia Shah",
+      "start_date": "2022-12-29",
+      "end_date": "2023-11-02"
+    },
+    {
+      "id": 24,
+      "unit_id": 50,
+      "tenant_name": "Chen Reyes",
+      "start_date": "2020-10-22",
+      "end_date": "2021-07-30"
+    },
+    {
+      "id": 25,
+      "unit_id": 136,
+      "tenant_name": "Mohamed Jensen",
+      "start_date": "2021-09-14",
+      "end_date": "2022-05-26"
+    },
+    {
+      "id": 26,
+      "unit_id": 53,
+      "tenant_name": "Ruby Ali",
+      "start_date": "2022-05-11",
+      "end_date": "2022-08-31"
+    },
+    {
+      "id": 27,
+      "unit_id": 15,
+      "tenant_name": "Anna Bauer",
+      "start_date": "2022-07-20",
+      "end_date": "2022-09-23"
+    },
+    {
+      "id": 28,
+      "unit_id": 111,
+      "tenant_name": "Rafael Baker",
+      "start_date": "2021-07-26",
+      "end_date": "2022-03-17"
+    },
+    {
+      "id": 29,
+      "unit_id": 163,
+      "tenant_name": "Tariq Murphy",
+      "start_date": "2022-09-08",
+      "end_date": "2022-12-10"
+    },
+    {
+      "id": 30,
+      "unit_id": 96,
+      "tenant_name": "Mateo Hassan",
+      "start_date": "2023-05-27",
+      "end_date": "2024-04-08"
+    },
+    {
+      "id": 31,
+      "unit_id": 128,
+      "tenant_name": "Zoe Vargas",
+      "start_date": "2023-09-15",
+      "end_date": "2024-09-10"
+    },
+    {
+      "id": 32,
+      "unit_id": 134,
+      "tenant_name": "Mateo Bennett",
+      "start_date": "2020-12-23",
+      "end_date": "2021-02-18"
+    },
+    {
+      "id": 33,
+      "unit_id": 28,
+      "tenant_name": "Nina Yilmaz",
+      "start_date": "2022-05-24",
+      "end_date": "2023-01-03"
+    },
+    {
+      "id": 34,
+      "unit_id": 185,
+      "tenant_name": "Ethan Tanaka",
+      "start_date": "2021-02-09",
+      "end_date": "2021-06-06"
+    },
+    {
+      "id": 35,
+      "unit_id": 121,
+      "tenant_name": "Deniz Reyes",
+      "start_date": "2023-11-08",
+      "end_date": "2024-01-29"
+    },
+    {
+      "id": 36,
+      "unit_id": 186,
+      "tenant_name": "Zoe Wright",
+      "start_date": "2021-12-04",
+      "end_date": "2022-07-14"
+    },
+    {
+      "id": 37,
+      "unit_id": 188,
+      "tenant_name": null,
+      "start_date": "2022-07-22",
+      "end_date": "2022-09-22"
+    },
+    {
+      "id": 38,
+      "unit_id": 195,
+      "tenant_name": "Oscar Evans",
+      "start_date": "2023-08-09",
+      "end_date": "2024-03-23"
+    },
+    {
+      "id": 39,
+      "unit_id": 89,
+      "tenant_name": "Uma Jansen",
+      "start_date": "2022-07-28",
+      "end_date": "2023-01-20"
+    },
+    {
+      "id": 40,
+      "unit_id": 131,
+      "tenant_name": "Diego Patel",
+      "start_date": "2021-07-29",
+      "end_date": "2022-01-24"
+    },
+    {
+      "id": 41,
+      "unit_id": 11,
+      "tenant_name": "Liam Nakamura",
+      "start_date": "2023-07-08",
+      "end_date": "2024-03-06"
+    },
+    {
+      "id": 42,
+      "unit_id": 127,
+      "tenant_name": "Theo Oliveira",
+      "start_date": "2023-04-06",
+      "end_date": "2024-01-31"
+    },
+    {
+      "id": 43,
+      "unit_id": 62,
+      "tenant_name": "Nina Lopez",
+      "start_date": "2023-01-29",
+      "end_date": "2023-10-23"
+    },
+    {
+      "id": 44,
+      "unit_id": 32,
+      "tenant_name": "Lucas Yilmaz",
+      "start_date": "2022-11-23",
+      "end_date": "2023-08-03"
+    },
+    {
+      "id": 45,
+      "unit_id": 199,
+      "tenant_name": "Victor Taylor",
+      "start_date": "2022-07-21",
+      "end_date": "2023-06-01"
+    },
+    {
+      "id": 46,
+      "unit_id": 190,
+      "tenant_name": null,
+      "start_date": "2023-07-15",
+      "end_date": "2023-08-24"
+    },
+    {
+      "id": 47,
+      "unit_id": 76,
+      "tenant_name": "Maja Zhang",
+      "start_date": "2020-02-15",
+      "end_date": "2020-04-01"
+    },
+    {
+      "id": 48,
+      "unit_id": 11,
+      "tenant_name": "Noah Andersen",
+      "start_date": "2021-03-12",
+      "end_date": "2022-02-01"
+    },
+    {
+      "id": 49,
+      "unit_id": 148,
+      "tenant_name": "Hana Hansen",
+      "start_date": "2022-08-30",
+      "end_date": "2022-09-26"
+    },
+    {
+      "id": 50,
+      "unit_id": 119,
+      "tenant_name": "Julia Clark",
+      "start_date": "2021-11-08",
+      "end_date": "2022-10-27"
+    },
+    {
+      "id": 51,
+      "unit_id": 57,
+      "tenant_name": "Rosa Ahmed",
+      "start_date": "2023-04-10",
+      "end_date": "2023-10-03"
+    },
+    {
+      "id": 52,
+      "unit_id": 198,
+      "tenant_name": "Elif Hansen",
+      "start_date": "2023-06-06",
+      "end_date": "2023-12-14"
+    },
+    {
+      "id": 53,
+      "unit_id": 85,
+      "tenant_name": "Selin Fischer",
+      "start_date": "2021-11-10",
+      "end_date": "2022-03-10"
+    },
+    {
+      "id": 54,
+      "unit_id": 161,
+      "tenant_name": null,
+      "start_date": "2023-12-26",
+      "end_date": "2024-02-15"
+    },
+    {
+      "id": 55,
+      "unit_id": 171,
+      "tenant_name": "Jonas Adams",
+      "start_date": "2023-07-12",
+      "end_date": "2024-04-22"
+    },
+    {
+      "id": 56,
+      "unit_id": 98,
+      "tenant_name": "Selin Pereira",
+      "start_date": "2023-03-21",
+      "end_date": "2024-02-01"
+    },
+    {
+      "id": 57,
+      "unit_id": 132,
+      "tenant_name": "Chloe Sato",
+      "start_date": "2021-12-26",
+      "end_date": "2022-06-20"
+    },
+    {
+      "id": 58,
+      "unit_id": 37,
+      "tenant_name": "Jack Nguyen",
+      "start_date": "2022-07-18",
+      "end_date": "2023-03-02"
+    },
+    {
+      "id": 59,
+      "unit_id": 58,
+      "tenant_name": null,
+      "start_date": "2022-10-06",
+      "end_date": "2022-10-09"
+    },
+    {
+      "id": 60,
+      "unit_id": 167,
+      "tenant_name": "Diego Nakamura",
+      "start_date": "2023-07-07",
+      "end_date": "2023-09-01"
+    },
+    {
+      "id": 61,
+      "unit_id": 89,
+      "tenant_name": "Uma Klein",
+      "start_date": "2021-01-07",
+      "end_date": "2021-07-14"
+    },
+    {
+      "id": 62,
+      "unit_id": 67,
+      "tenant_name": "Maria Smith",
+      "start_date": "2022-05-15",
+      "end_date": "2022-07-13"
+    },
+    {
+      "id": 63,
+      "unit_id": 113,
+      "tenant_name": "Omar Garcia",
+      "start_date": "2023-02-28",
+      "end_date": "2023-04-02"
+    },
+    {
+      "id": 64,
+      "unit_id": 182,
+      "tenant_name": "Yara Chen",
+      "start_date": "2022-02-06",
+      "end_date": "2022-07-09"
+    },
+    {
+      "id": 65,
+      "unit_id": 112,
+      "tenant_name": "Anna Johnson",
+      "start_date": "2021-02-26",
+      "end_date": "2021-03-17"
+    },
+    {
+      "id": 66,
+      "unit_id": 118,
+      "tenant_name": "Karim Diaz",
+      "start_date": "2023-01-25",
+      "end_date": "2023-04-27"
+    },
+    {
+      "id": 67,
+      "unit_id": 11,
+      "tenant_name": null,
+      "start_date": "2022-06-11",
+      "end_date": "2023-05-25"
+    },
+    {
+      "id": 68,
+      "unit_id": 65,
+      "tenant_name": "Ana Sato",
+      "start_date": "2023-02-17",
+      "end_date": "2023-08-04"
+    },
+    {
+      "id": 69,
+      "unit_id": 101,
+      "tenant_name": "David Ruiz",
+      "start_date": "2022-10-11",
+      "end_date": "2023-05-08"
+    },
+    {
+      "id": 70,
+      "unit_id": 42,
+      "tenant_name": "Hana Khan",
+      "start_date": "2023-03-22",
+      "end_date": "2023-04-18"
+    },
+    {
+      "id": 71,
+      "unit_id": 21,
+      "tenant_name": "Priya Carter",
+      "start_date": "2021-11-01",
+      "end_date": "2022-04-03"
+    },
+    {
+      "id": 72,
+      "unit_id": 45,
+      "tenant_name": "Lucas Jensen",
+      "start_date": "2023-01-25",
+      "end_date": "2023-03-05"
+    },
+    {
+      "id": 73,
+      "unit_id": 158,
+      "tenant_name": "Priya Vargas",
+      "start_date": "2021-09-07",
+      "end_date": "2022-05-17"
+    },
+    {
+      "id": 74,
+      "unit_id": 133,
+      "tenant_name": "Chen Wagner",
+      "start_date": "2023-09-20",
+      "end_date": "2024-07-05"
+    },
+    {
+      "id": 75,
+      "unit_id": 120,
+      "tenant_name": null,
+      "start_date": "2021-09-19",
+      "end_date": "2022-02-07"
+    },
+    {
+      "id": 76,
+      "unit_id": 170,
+      "tenant_name": "Theo Khan",
+      "start_date": "2022-07-03",
+      "end_date": "2022-07-25"
+    },
+    {
+      "id": 77,
+      "unit_id": 135,
+      "tenant_name": "Priya Almeida",
+      "start_date": "2023-03-01",
+      "end_date": "2024-01-09"
+    },
+    {
+      "id": 78,
+      "unit_id": 95,
+      "tenant_name": "Ines Hansen",
+      "start_date": "2022-12-14",
+      "end_date": "2023-03-30"
+    },
+    {
+      "id": 79,
+      "unit_id": 40,
+      "tenant_name": "Ben Schneider",
+      "start_date": "2023-08-31",
+      "end_date": "2023-11-23"
+    },
+    {
+      "id": 80,
+      "unit_id": 99,
+      "tenant_name": "Emma Schneider",
+      "start_date": "2021-09-22",
+      "end_date": "2021-12-15"
+    },
+    {
+      "id": 81,
+      "unit_id": 130,
+      "tenant_name": "Maya Singh",
+      "start_date": "2022-03-21",
+      "end_date": "2022-11-17"
+    },
+    {
+      "id": 82,
+      "unit_id": 4,
+      "tenant_name": "Hannah Gomez",
+      "start_date": "2022-06-05",
+      "end_date": "2022-12-19"
+    },
+    {
+      "id": 83,
+      "unit_id": 122,
+      "tenant_name": "Mia Nakamura",
+      "start_date": "2023-09-16",
+      "end_date": "2024-08-19"
+    },
+    {
+      "id": 84,
+      "unit_id": 44,
+      "tenant_name": "Olivia Weber",
+      "start_date": "2020-12-15",
+      "end_date": "2020-12-27"
+    },
+    {
+      "id": 85,
+      "unit_id": 98,
+      "tenant_name": "Fatima Kowalski",
+      "start_date": "2022-11-29",
+      "end_date": "2023-01-30"
+    },
+    {
+      "id": 86,
+      "unit_id": 176,
+      "tenant_name": "Tomas Sato",
+      "start_date": "2022-04-02",
+      "end_date": "2022-08-28"
+    },
+    {
+      "id": 87,
+      "unit_id": 10,
+      "tenant_name": "Nadia Evans",
+      "start_date": "2023-11-04",
+      "end_date": "2024-05-11"
+    },
+    {
+      "id": 88,
+      "unit_id": 27,
+      "tenant_name": "Mia Hughes",
+      "start_date": "2023-01-07",
+      "end_date": "2023-05-07"
+    },
+    {
+      "id": 89,
+      "unit_id": 12,
+      "tenant_name": "Alice Jansen",
+      "start_date": "2021-12-01",
+      "end_date": "2022-06-09"
+    },
+    {
+      "id": 90,
+      "unit_id": 105,
+      "tenant_name": "Omar Clark",
+      "start_date": "2022-08-16",
+      "end_date": "2023-08-11"
+    },
+    {
+      "id": 91,
+      "unit_id": 62,
+      "tenant_name": "Diego Novak",
+      "start_date": "2022-05-17",
+      "end_date": "2022-06-04"
+    },
+    {
+      "id": 92,
+      "unit_id": 187,
+      "tenant_name": "Nina Kaya",
+      "start_date": "2022-01-04",
+      "end_date": "2022-08-16"
+    },
+    {
+      "id": 93,
+      "unit_id": 50,
+      "tenant_name": "Ben Kim",
+      "start_date": "2020-01-08",
+      "end_date": "2020-03-14"
+    },
+    {
+      "id": 94,
+      "unit_id": 159,
+      "tenant_name": "Diego Hansen",
+      "start_date": "2023-10-21",
+      "end_date": "2024-09-13"
+    },
+    {
+      "id": 95,
+      "unit_id": 152,
+      "tenant_name": "Ibrahim Becker",
+      "start_date": "2022-06-02",
+      "end_date": "2023-04-26"
+    },
+    {
+      "id": 96,
+      "unit_id": 155,
+      "tenant_name": "Mila Ruiz",
+      "start_date": "2023-10-03",
+      "end_date": "2024-10-02"
+    },
+    {
+      "id": 97,
+      "unit_id": 114,
+      "tenant_name": "Marco Hughes",
+      "start_date": "2022-02-22",
+      "end_date": "2022-06-23"
+    },
+    {
+      "id": 98,
+      "unit_id": 145,
+      "tenant_name": "Chen Kim",
+      "start_date": "2022-08-26",
+      "end_date": "2023-06-05"
+    },
+    {
+      "id": 99,
+      "unit_id": 101,
+      "tenant_name": null,
+      "start_date": "2022-05-14",
+      "end_date": "2022-07-09"
+    },
+    {
+      "id": 100,
+      "unit_id": 134,
+      "tenant_name": "Elena Dubois",
+      "start_date": "2023-10-25",
+      "end_date": "2024-06-21"
+    },
+    {
+      "id": 101,
+      "unit_id": 26,
+      "tenant_name": "Carla Martin",
+      "start_date": "2022-07-16",
+      "end_date": "2022-10-27"
+    },
+    {
+      "id": 102,
+      "unit_id": 49,
+      "tenant_name": "Sam Wilson",
+      "start_date": "2022-11-11",
+      "end_date": "2022-11-14"
+    },
+    {
+      "id": 103,
+      "unit_id": 163,
+      "tenant_name": "Lena Nakamura",
+      "start_date": "2023-08-03",
+      "end_date": "2024-06-28"
+    },
+    {
+      "id": 104,
+      "unit_id": 190,
+      "tenant_name": "Andre Vargas",
+      "start_date": "2022-10-31",
+      "end_date": "2023-02-14"
+    },
+    {
+      "id": 105,
+      "unit_id": 107,
+      "tenant_name": "Andre Hoffmann",
+      "start_date": "2020-11-01",
+      "end_date": "2021-03-11"
+    },
+    {
+      "id": 106,
+      "unit_id": 100,
+      "tenant_name": null,
+      "start_date": "2023-12-15",
+      "end_date": "2024-11-14"
+    },
+    {
+      "id": 107,
+      "unit_id": 94,
+      "tenant_name": "Diego Tanaka",
+      "start_date": "2021-03-21",
+      "end_date": "2021-06-19"
+    },
+    {
+      "id": 108,
+      "unit_id": 54,
+      "tenant_name": "Deniz Miller",
+      "start_date": "2023-02-23",
+      "end_date": "2023-07-25"
+    },
+    {
+      "id": 109,
+      "unit_id": 4,
+      "tenant_name": null,
+      "start_date": "2021-08-04",
+      "end_date": "2021-09-10"
+    },
+    {
+      "id": 110,
+      "unit_id": 81,
+      "tenant_name": "Yara Taylor",
+      "start_date": "2023-04-09",
+      "end_date": "2023-04-15"
+    },
+    {
+      "id": 111,
+      "unit_id": 45,
+      "tenant_name": "Amir Tanaka",
+      "start_date": "2022-06-15",
+      "end_date": "2022-08-24"
+    },
+    {
+      "id": 112,
+      "unit_id": 1,
+      "tenant_name": "Amir Ahmed",
+      "start_date": "2020-12-27",
+      "end_date": "2021-04-15"
+    },
+    {
+      "id": 113,
+      "unit_id": 21,
+      "tenant_name": "Yara Carter",
+      "start_date": "2021-03-16",
+      "end_date": "2022-02-05"
+    },
+    {
+      "id": 114,
+      "unit_id": 63,
+      "tenant_name": "Pedro Rossi",
+      "start_date": "2020-10-03",
+      "end_date": "2021-09-07"
+    },
+    {
+      "id": 115,
+      "unit_id": 187,
+      "tenant_name": "Lina Almeida",
+      "start_date": "2020-12-15",
+      "end_date": "2021-07-08"
+    },
+    {
+      "id": 116,
+      "unit_id": 154,
+      "tenant_name": "Rafael Walker",
+      "start_date": "2021-12-12",
+      "end_date": "2022-04-10"
+    },
+    {
+      "id": 117,
+      "unit_id": 38,
+      "tenant_name": null,
+      "start_date": "2022-05-02",
+      "end_date": "2023-01-12"
+    },
+    {
+      "id": 118,
+      "unit_id": 80,
+      "tenant_name": null,
+      "start_date": "2022-10-23",
+      "end_date": "2023-07-25"
+    },
+    {
+      "id": 119,
+      "unit_id": 13,
+      "tenant_name": "Sofia Castro",
+      "start_date": "2023-02-15",
+      "end_date": "2024-01-07"
+    },
+    {
+      "id": 120,
+      "unit_id": 177,
+      "tenant_name": "Jonas Wang",
+      "start_date": "2023-03-02",
+      "end_date": "2023-10-19"
+    },
+    {
+      "id": 121,
+      "unit_id": 15,
+      "tenant_name": "Nadia Ibrahim",
+      "start_date": "2022-05-27",
+      "end_date": "2022-11-19"
+    },
+    {
+      "id": 122,
+      "unit_id": 139,
+      "tenant_name": "Hugo Ali",
+      "start_date": "2023-09-06",
+      "end_date": "2023-12-14"
+    },
+    {
+      "id": 123,
+      "unit_id": 33,
+      "tenant_name": "Rafael Reyes",
+      "start_date": "2023-01-27",
+      "end_date": "2024-01-19"
+    },
+    {
+      "id": 124,
+      "unit_id": 30,
+      "tenant_name": "Hugo Oliveira",
+      "start_date": "2022-10-23",
+      "end_date": "2023-08-22"
+    },
+    {
+      "id": 125,
+      "unit_id": 41,
+      "tenant_name": "Ibrahim Andersen",
+      "start_date": "2022-07-10",
+      "end_date": "2023-02-09"
+    },
+    {
+      "id": 126,
+      "unit_id": 146,
+      "tenant_name": null,
+      "start_date": "2020-01-26",
+      "end_date": "2020-12-25"
+    },
+    {
+      "id": 127,
+      "unit_id": 169,
+      "tenant_name": "Karim Schmidt",
+      "start_date": "2022-01-17",
+      "end_date": "2022-06-27"
+    },
+    {
+      "id": 128,
+      "unit_id": 89,
+      "tenant_name": "Diego Young",
+      "start_date": "2021-09-28",
+      "end_date": "2021-10-24"
+    },
+    {
+      "id": 129,
+      "unit_id": 194,
+      "tenant_name": "Maria Almeida",
+      "start_date": "2023-11-27",
+      "end_date": "2024-08-30"
+    },
+    {
+      "id": 130,
+      "unit_id": 149,
+      "tenant_name": "Maria Almeida",
+      "start_date": "2021-03-09",
+      "end_date": "2021-08-09"
+    },
+    {
+      "id": 131,
+      "unit_id": 188,
+      "tenant_name": "Maja Brown",
+      "start_date": "2023-04-18",
+      "end_date": "2023-10-23"
+    },
+    {
+      "id": 132,
+      "unit_id": 8,
+      "tenant_name": "Wei Rossi",
+      "start_date": "2022-01-07",
+      "end_date": "2022-02-25"
+    },
+    {
+      "id": 133,
+      "unit_id": 60,
+      "tenant_name": "Lina Hassan",
+      "start_date": "2022-10-08",
+      "end_date": "2023-01-10"
+    },
+    {
+      "id": 134,
+      "unit_id": 139,
+      "tenant_name": "Pedro Kaya",
+      "start_date": "2023-04-18",
+      "end_date": "2023-11-11"
+    },
+    {
+      "id": 135,
+      "unit_id": 177,
+      "tenant_name": "Leo Rossi",
+      "start_date": "2020-12-14",
+      "end_date": "2021-01-04"
+    },
+    {
+      "id": 136,
+      "unit_id": 32,
+      "tenant_name": "Hannah Ahmed",
+      "start_date": "2022-03-02",
+      "end_date": "2022-07-28"
+    },
+    {
+      "id": 137,
+      "unit_id": 157,
+      "tenant_name": "Selin Lopez",
+      "start_date": "2020-02-26",
+      "end_date": "2020-10-31"
+    },
+    {
+      "id": 138,
+      "unit_id": 125,
+      "tenant_name": "Nour Clark",
+      "start_date": "2023-02-21",
+      "end_date": "2023-08-24"
+    },
+    {
+      "id": 139,
+      "unit_id": 125,
+      "tenant_name": "Diego Becker",
+      "start_date": "2023-08-16",
+      "end_date": "2023-11-19"
+    },
+    {
+      "id": 140,
+      "unit_id": 169,
+      "tenant_name": "Sofia Schneider",
+      "start_date": "2023-10-25",
+      "end_date": "2024-01-06"
+    },
+    {
+      "id": 141,
+      "unit_id": 22,
+      "tenant_name": "Nadia Patel",
+      "start_date": "2022-05-24",
+      "end_date": "2022-08-30"
+    },
+    {
+      "id": 142,
+      "unit_id": 105,
+      "tenant_name": "Lucas Young",
+      "start_date": "2023-01-31",
+      "end_date": "2023-09-17"
+    },
+    {
+      "id": 143,
+      "unit_id": 112,
+      "tenant_name": "Chloe Johnson",
+      "start_date": "2023-09-19",
+      "end_date": "2023-09-27"
+    },
+    {
+      "id": 144,
+      "unit_id": 160,
+      "tenant_name": "Jack Sato",
+      "start_date": "2022-05-11",
+      "end_date": "2022-10-27"
+    },
+    {
+      "id": 145,
+      "unit_id": 79,
+      "tenant_name": null,
+      "start_date": "2020-01-22",
+      "end_date": "2020-11-17"
+    },
+    {
+      "id": 146,
+      "unit_id": 103,
+      "tenant_name": "Daniel Mendes",
+      "start_date": "2020-08-23",
+      "end_date": "2020-09-14"
+    },
+    {
+      "id": 147,
+      "unit_id": 133,
+      "tenant_name": "Liam Clark",
+      "start_date": "2020-04-24",
+      "end_date": "2021-03-14"
+    },
+    {
+      "id": 148,
+      "unit_id": 49,
+      "tenant_name": null,
+      "start_date": "2022-08-11",
+      "end_date": "2022-11-10"
+    },
+    {
+      "id": 149,
+      "unit_id": 186,
+      "tenant_name": "Sven Flores",
+      "start_date": "2020-06-10",
+      "end_date": "2021-02-08"
+    },
+    {
+      "id": 150,
+      "unit_id": 125,
+      "tenant_name": "Maya Novak",
+      "start_date": "2022-10-23",
+      "end_date": "2023-04-28"
+    }
+  ],
+  "rent_payments": [
+    {
+      "id": 1,
+      "tenancy_id": 114,
+      "amount": 1434.59,
+      "payment_date": "2021-02-22",
+      "payment_method": "cash"
+    },
+    {
+      "id": 2,
+      "tenancy_id": 108,
+      "amount": 2317.57,
+      "payment_date": "2020-11-01",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 3,
+      "tenancy_id": 97,
+      "amount": 1183.37,
+      "payment_date": "2021-04-06",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 4,
+      "tenancy_id": 101,
+      "amount": 1652.58,
+      "payment_date": "2022-08-15",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 5,
+      "tenancy_id": 128,
+      "amount": 1871.13,
+      "payment_date": "2021-11-25",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 6,
+      "tenancy_id": 73,
+      "amount": 2314.36,
+      "payment_date": "2022-10-27",
+      "payment_method": "cash"
+    },
+    {
+      "id": 7,
+      "tenancy_id": 16,
+      "amount": 826.99,
+      "payment_date": "2022-10-19",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 8,
+      "tenancy_id": 138,
+      "amount": 1482.96,
+      "payment_date": "2020-08-23",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 9,
+      "tenancy_id": 83,
+      "amount": 563.44,
+      "payment_date": "2022-11-19",
+      "payment_method": "cash"
+    },
+    {
+      "id": 10,
+      "tenancy_id": 7,
+      "amount": 519.9,
+      "payment_date": "2023-09-22",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 11,
+      "tenancy_id": 46,
+      "amount": 2405.36,
+      "payment_date": "2022-07-06",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 12,
+      "tenancy_id": 1,
+      "amount": 2078.96,
+      "payment_date": "2022-10-22",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 13,
+      "tenancy_id": 121,
+      "amount": 1530.29,
+      "payment_date": "2021-12-22",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 14,
+      "tenancy_id": 72,
+      "amount": 667.78,
+      "payment_date": "2023-08-09",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 15,
+      "tenancy_id": 143,
+      "amount": 2286.5,
+      "payment_date": "2020-12-01",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 16,
+      "tenancy_id": 41,
+      "amount": 1894.61,
+      "payment_date": "2020-09-26",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 17,
+      "tenancy_id": 113,
+      "amount": 1745.43,
+      "payment_date": "2020-11-05",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 18,
+      "tenancy_id": 23,
+      "amount": 853.15,
+      "payment_date": "2021-01-03",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 19,
+      "tenancy_id": 10,
+      "amount": 595.3,
+      "payment_date": "2021-09-12",
+      "payment_method": "cash"
+    },
+    {
+      "id": 20,
+      "tenancy_id": 85,
+      "amount": 2341.86,
+      "payment_date": "2022-08-16",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 21,
+      "tenancy_id": 56,
+      "amount": 2486.45,
+      "payment_date": "2022-02-05",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 22,
+      "tenancy_id": 71,
+      "amount": 548.93,
+      "payment_date": "2020-08-13",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 23,
+      "tenancy_id": 6,
+      "amount": 1026.12,
+      "payment_date": "2021-02-12",
+      "payment_method": "cash"
+    },
+    {
+      "id": 24,
+      "tenancy_id": 34,
+      "amount": 1556.36,
+      "payment_date": "2023-09-11",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 25,
+      "tenancy_id": 128,
+      "amount": 617.62,
+      "payment_date": "2021-10-29",
+      "payment_method": "cash"
+    },
+    {
+      "id": 26,
+      "tenancy_id": 63,
+      "amount": 2698.49,
+      "payment_date": "2022-02-28",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 27,
+      "tenancy_id": 150,
+      "amount": 783,
+      "payment_date": "2023-09-13",
+      "payment_method": "cash"
+    },
+    {
+      "id": 28,
+      "tenancy_id": 61,
+      "amount": 1719.94,
+      "payment_date": "2020-11-17",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 29,
+      "tenancy_id": 102,
+      "amount": 1299.27,
+      "payment_date": "2021-04-15",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 30,
+      "tenancy_id": 77,
+      "amount": 1635.41,
+      "payment_date": "2022-10-23",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 31,
+      "tenancy_id": 83,
+      "amount": 2206.46,
+      "payment_date": "2022-12-03",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 32,
+      "tenancy_id": 55,
+      "amount": 1066.23,
+      "payment_date": "2022-01-16",
+      "payment_method": "cash"
+    },
+    {
+      "id": 33,
+      "tenancy_id": 116,
+      "amount": 1051.09,
+      "payment_date": "2020-01-16",
+      "payment_method": "cash"
+    },
+    {
+      "id": 34,
+      "tenancy_id": 145,
+      "amount": 1419.44,
+      "payment_date": "2023-06-28",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 35,
+      "tenancy_id": 79,
+      "amount": 607.47,
+      "payment_date": "2023-12-16",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 36,
+      "tenancy_id": 87,
+      "amount": 2398.11,
+      "payment_date": "2020-12-06",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 37,
+      "tenancy_id": 88,
+      "amount": 910.55,
+      "payment_date": "2020-08-23",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 38,
+      "tenancy_id": 50,
+      "amount": 1576.66,
+      "payment_date": "2020-09-03",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 39,
+      "tenancy_id": 65,
+      "amount": 607.84,
+      "payment_date": "2021-11-04",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 40,
+      "tenancy_id": 91,
+      "amount": 2449.12,
+      "payment_date": "2023-09-17",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 41,
+      "tenancy_id": 133,
+      "amount": 1242.83,
+      "payment_date": "2023-12-14",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 42,
+      "tenancy_id": 83,
+      "amount": 808,
+      "payment_date": "2022-11-23",
+      "payment_method": "cash"
+    },
+    {
+      "id": 43,
+      "tenancy_id": 133,
+      "amount": 512.89,
+      "payment_date": "2020-07-06",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 44,
+      "tenancy_id": 97,
+      "amount": 1441.94,
+      "payment_date": "2022-08-29",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 45,
+      "tenancy_id": 128,
+      "amount": 536.88,
+      "payment_date": "2020-04-14",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 46,
+      "tenancy_id": 135,
+      "amount": 826.64,
+      "payment_date": "2020-05-10",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 47,
+      "tenancy_id": 53,
+      "amount": 2885.36,
+      "payment_date": "2022-01-15",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 48,
+      "tenancy_id": 21,
+      "amount": 1393.01,
+      "payment_date": "2021-07-20",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 49,
+      "tenancy_id": 102,
+      "amount": 689.63,
+      "payment_date": "2023-01-07",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 50,
+      "tenancy_id": 138,
+      "amount": 1954.24,
+      "payment_date": "2021-12-09",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 51,
+      "tenancy_id": 51,
+      "amount": 2544.18,
+      "payment_date": "2020-05-18",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 52,
+      "tenancy_id": 10,
+      "amount": 1305.57,
+      "payment_date": "2020-12-28",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 53,
+      "tenancy_id": 64,
+      "amount": 1593.91,
+      "payment_date": "2020-09-21",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 54,
+      "tenancy_id": 61,
+      "amount": 2868.86,
+      "payment_date": "2021-09-12",
+      "payment_method": "cash"
+    },
+    {
+      "id": 55,
+      "tenancy_id": 8,
+      "amount": 600.49,
+      "payment_date": "2021-06-21",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 56,
+      "tenancy_id": 1,
+      "amount": 711.11,
+      "payment_date": "2022-09-26",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 57,
+      "tenancy_id": 63,
+      "amount": 1440.04,
+      "payment_date": "2020-12-16",
+      "payment_method": "cash"
+    },
+    {
+      "id": 58,
+      "tenancy_id": 24,
+      "amount": 1009.96,
+      "payment_date": "2022-02-28",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 59,
+      "tenancy_id": 115,
+      "amount": 2353.29,
+      "payment_date": "2022-11-11",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 60,
+      "tenancy_id": 57,
+      "amount": 1180.12,
+      "payment_date": "2021-04-08",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 61,
+      "tenancy_id": 41,
+      "amount": 2964.12,
+      "payment_date": "2020-12-29",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 62,
+      "tenancy_id": 5,
+      "amount": 503.46,
+      "payment_date": "2021-02-21",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 63,
+      "tenancy_id": 135,
+      "amount": 588.55,
+      "payment_date": "2023-11-01",
+      "payment_method": "cash"
+    },
+    {
+      "id": 64,
+      "tenancy_id": 107,
+      "amount": 1541.56,
+      "payment_date": "2021-04-25",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 65,
+      "tenancy_id": 84,
+      "amount": 1001.69,
+      "payment_date": "2020-09-05",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 66,
+      "tenancy_id": 138,
+      "amount": 2470.61,
+      "payment_date": "2022-12-02",
+      "payment_method": "cash"
+    },
+    {
+      "id": 67,
+      "tenancy_id": 65,
+      "amount": 2841.15,
+      "payment_date": "2021-07-13",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 68,
+      "tenancy_id": 146,
+      "amount": 2010.69,
+      "payment_date": "2020-03-29",
+      "payment_method": "cash"
+    },
+    {
+      "id": 69,
+      "tenancy_id": 39,
+      "amount": 715.23,
+      "payment_date": "2020-12-18",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 70,
+      "tenancy_id": 133,
+      "amount": 1635.02,
+      "payment_date": "2020-09-30",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 71,
+      "tenancy_id": 60,
+      "amount": 1720.42,
+      "payment_date": "2021-11-10",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 72,
+      "tenancy_id": 38,
+      "amount": 2940.35,
+      "payment_date": "2021-12-31",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 73,
+      "tenancy_id": 123,
+      "amount": 607.22,
+      "payment_date": "2023-09-15",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 74,
+      "tenancy_id": 82,
+      "amount": 1623.4,
+      "payment_date": "2022-08-01",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 75,
+      "tenancy_id": 44,
+      "amount": 1498.11,
+      "payment_date": "2020-04-13",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 76,
+      "tenancy_id": 64,
+      "amount": 720.63,
+      "payment_date": "2021-01-07",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 77,
+      "tenancy_id": 92,
+      "amount": 1040.34,
+      "payment_date": "2022-06-27",
+      "payment_method": "cash"
+    },
+    {
+      "id": 78,
+      "tenancy_id": 17,
+      "amount": 1819.87,
+      "payment_date": "2023-04-11",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 79,
+      "tenancy_id": 79,
+      "amount": 2594.09,
+      "payment_date": "2023-10-11",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 80,
+      "tenancy_id": 149,
+      "amount": 2387.29,
+      "payment_date": "2023-09-11",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 81,
+      "tenancy_id": 114,
+      "amount": 2913.03,
+      "payment_date": "2023-08-17",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 82,
+      "tenancy_id": 75,
+      "amount": 1220.73,
+      "payment_date": "2023-02-12",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 83,
+      "tenancy_id": 112,
+      "amount": 999.04,
+      "payment_date": "2023-11-02",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 84,
+      "tenancy_id": 80,
+      "amount": 532.85,
+      "payment_date": "2023-05-16",
+      "payment_method": "cash"
+    },
+    {
+      "id": 85,
+      "tenancy_id": 130,
+      "amount": 2797.04,
+      "payment_date": "2023-03-15",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 86,
+      "tenancy_id": 25,
+      "amount": 501.5,
+      "payment_date": "2023-08-20",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 87,
+      "tenancy_id": 124,
+      "amount": 1085.73,
+      "payment_date": "2020-10-05",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 88,
+      "tenancy_id": 32,
+      "amount": 591.12,
+      "payment_date": "2022-12-22",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 89,
+      "tenancy_id": 22,
+      "amount": 705.25,
+      "payment_date": "2023-01-15",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 90,
+      "tenancy_id": 124,
+      "amount": 658.7,
+      "payment_date": "2021-10-11",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 91,
+      "tenancy_id": 31,
+      "amount": 921.78,
+      "payment_date": "2021-03-12",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 92,
+      "tenancy_id": 122,
+      "amount": 1668.09,
+      "payment_date": "2020-11-05",
+      "payment_method": "cash"
+    },
+    {
+      "id": 93,
+      "tenancy_id": 14,
+      "amount": 500.45,
+      "payment_date": "2021-01-27",
+      "payment_method": "cash"
+    },
+    {
+      "id": 94,
+      "tenancy_id": 98,
+      "amount": 1267.12,
+      "payment_date": "2020-11-14",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 95,
+      "tenancy_id": 41,
+      "amount": 2399.07,
+      "payment_date": "2023-01-13",
+      "payment_method": "cash"
+    },
+    {
+      "id": 96,
+      "tenancy_id": 12,
+      "amount": 975.17,
+      "payment_date": "2023-11-09",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 97,
+      "tenancy_id": 106,
+      "amount": 507.19,
+      "payment_date": "2020-01-22",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 98,
+      "tenancy_id": 121,
+      "amount": 1141.89,
+      "payment_date": "2022-11-13",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 99,
+      "tenancy_id": 61,
+      "amount": 845.93,
+      "payment_date": "2021-04-06",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 100,
+      "tenancy_id": 58,
+      "amount": 570.16,
+      "payment_date": "2020-01-20",
+      "payment_method": "cash"
+    },
+    {
+      "id": 101,
+      "tenancy_id": 3,
+      "amount": 1201.91,
+      "payment_date": "2023-11-01",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 102,
+      "tenancy_id": 72,
+      "amount": 2044.11,
+      "payment_date": "2022-09-13",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 103,
+      "tenancy_id": 62,
+      "amount": 2715,
+      "payment_date": "2023-05-31",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 104,
+      "tenancy_id": 46,
+      "amount": 2364.1,
+      "payment_date": "2023-01-01",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 105,
+      "tenancy_id": 70,
+      "amount": 1827.32,
+      "payment_date": "2023-09-07",
+      "payment_method": "cash"
+    },
+    {
+      "id": 106,
+      "tenancy_id": 8,
+      "amount": 1819.46,
+      "payment_date": "2022-01-03",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 107,
+      "tenancy_id": 111,
+      "amount": 775.24,
+      "payment_date": "2022-03-21",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 108,
+      "tenancy_id": 88,
+      "amount": 2657.37,
+      "payment_date": "2021-12-02",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 109,
+      "tenancy_id": 28,
+      "amount": 509.15,
+      "payment_date": "2021-12-21",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 110,
+      "tenancy_id": 98,
+      "amount": 786.39,
+      "payment_date": "2022-11-27",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 111,
+      "tenancy_id": 9,
+      "amount": 637.83,
+      "payment_date": "2021-12-21",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 112,
+      "tenancy_id": 83,
+      "amount": 715.76,
+      "payment_date": "2023-10-23",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 113,
+      "tenancy_id": 124,
+      "amount": 658.43,
+      "payment_date": "2021-01-19",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 114,
+      "tenancy_id": 75,
+      "amount": 2230.58,
+      "payment_date": "2022-06-15",
+      "payment_method": "cash"
+    },
+    {
+      "id": 115,
+      "tenancy_id": 47,
+      "amount": 716.11,
+      "payment_date": "2023-10-08",
+      "payment_method": "cash"
+    },
+    {
+      "id": 116,
+      "tenancy_id": 6,
+      "amount": 501.5,
+      "payment_date": "2022-11-18",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 117,
+      "tenancy_id": 93,
+      "amount": 2415.86,
+      "payment_date": "2020-09-26",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 118,
+      "tenancy_id": 26,
+      "amount": 1548.73,
+      "payment_date": "2022-05-20",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 119,
+      "tenancy_id": 53,
+      "amount": 1214.45,
+      "payment_date": "2020-11-27",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 120,
+      "tenancy_id": 128,
+      "amount": 501.83,
+      "payment_date": "2021-10-17",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 121,
+      "tenancy_id": 60,
+      "amount": 1687.74,
+      "payment_date": "2021-02-17",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 122,
+      "tenancy_id": 36,
+      "amount": 1239.51,
+      "payment_date": "2021-04-12",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 123,
+      "tenancy_id": 109,
+      "amount": 2000.81,
+      "payment_date": "2020-03-13",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 124,
+      "tenancy_id": 14,
+      "amount": 1351.24,
+      "payment_date": "2022-09-03",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 125,
+      "tenancy_id": 90,
+      "amount": 883.77,
+      "payment_date": "2022-11-24",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 126,
+      "tenancy_id": 131,
+      "amount": 832.43,
+      "payment_date": "2021-10-03",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 127,
+      "tenancy_id": 69,
+      "amount": 906.06,
+      "payment_date": "2021-01-31",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 128,
+      "tenancy_id": 65,
+      "amount": 510.1,
+      "payment_date": "2023-10-02",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 129,
+      "tenancy_id": 60,
+      "amount": 2597.38,
+      "payment_date": "2022-04-03",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 130,
+      "tenancy_id": 51,
+      "amount": 512.73,
+      "payment_date": "2021-12-28",
+      "payment_method": "cash"
+    },
+    {
+      "id": 131,
+      "tenancy_id": 99,
+      "amount": 2005.94,
+      "payment_date": "2020-04-30",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 132,
+      "tenancy_id": 27,
+      "amount": 506.2,
+      "payment_date": "2023-09-27",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 133,
+      "tenancy_id": 61,
+      "amount": 680.6,
+      "payment_date": "2022-08-05",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 134,
+      "tenancy_id": 111,
+      "amount": 819.98,
+      "payment_date": "2020-08-09",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 135,
+      "tenancy_id": 126,
+      "amount": 2213.39,
+      "payment_date": "2023-02-04",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 136,
+      "tenancy_id": 139,
+      "amount": 500.02,
+      "payment_date": "2020-03-27",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 137,
+      "tenancy_id": 9,
+      "amount": 2184.39,
+      "payment_date": "2021-10-12",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 138,
+      "tenancy_id": 144,
+      "amount": 1486.07,
+      "payment_date": "2022-09-28",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 139,
+      "tenancy_id": 81,
+      "amount": 830.52,
+      "payment_date": "2020-01-23",
+      "payment_method": "cash"
+    },
+    {
+      "id": 140,
+      "tenancy_id": 50,
+      "amount": 1970.3,
+      "payment_date": "2023-05-21",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 141,
+      "tenancy_id": 38,
+      "amount": 1397.39,
+      "payment_date": "2023-05-20",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 142,
+      "tenancy_id": 94,
+      "amount": 588,
+      "payment_date": "2021-07-19",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 143,
+      "tenancy_id": 87,
+      "amount": 752.43,
+      "payment_date": "2022-02-02",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 144,
+      "tenancy_id": 62,
+      "amount": 1253.94,
+      "payment_date": "2020-10-10",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 145,
+      "tenancy_id": 88,
+      "amount": 899.18,
+      "payment_date": "2020-10-04",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 146,
+      "tenancy_id": 109,
+      "amount": 532.98,
+      "payment_date": "2021-03-06",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 147,
+      "tenancy_id": 19,
+      "amount": 987.68,
+      "payment_date": "2023-10-26",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 148,
+      "tenancy_id": 50,
+      "amount": 1768.33,
+      "payment_date": "2021-12-04",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 149,
+      "tenancy_id": 96,
+      "amount": 2960.81,
+      "payment_date": "2022-09-08",
+      "payment_method": "cash"
+    },
+    {
+      "id": 150,
+      "tenancy_id": 92,
+      "amount": 1208.15,
+      "payment_date": "2022-05-05",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 151,
+      "tenancy_id": 20,
+      "amount": 526.5,
+      "payment_date": "2020-06-16",
+      "payment_method": "cash"
+    },
+    {
+      "id": 152,
+      "tenancy_id": 103,
+      "amount": 1214.06,
+      "payment_date": "2020-12-20",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 153,
+      "tenancy_id": 97,
+      "amount": 561.35,
+      "payment_date": "2022-10-18",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 154,
+      "tenancy_id": 149,
+      "amount": 1579.91,
+      "payment_date": "2022-12-08",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 155,
+      "tenancy_id": 69,
+      "amount": 2065.89,
+      "payment_date": "2021-12-10",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 156,
+      "tenancy_id": 46,
+      "amount": 2247.19,
+      "payment_date": "2023-08-12",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 157,
+      "tenancy_id": 84,
+      "amount": 506.71,
+      "payment_date": "2022-11-17",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 158,
+      "tenancy_id": 74,
+      "amount": 777.61,
+      "payment_date": "2021-11-01",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 159,
+      "tenancy_id": 96,
+      "amount": 814.2,
+      "payment_date": "2023-08-16",
+      "payment_method": "cash"
+    },
+    {
+      "id": 160,
+      "tenancy_id": 13,
+      "amount": 911.08,
+      "payment_date": "2023-10-30",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 161,
+      "tenancy_id": 75,
+      "amount": 935.73,
+      "payment_date": "2022-09-04",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 162,
+      "tenancy_id": 94,
+      "amount": 2926,
+      "payment_date": "2023-03-05",
+      "payment_method": "cash"
+    },
+    {
+      "id": 163,
+      "tenancy_id": 17,
+      "amount": 500.07,
+      "payment_date": "2022-02-13",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 164,
+      "tenancy_id": 148,
+      "amount": 524.14,
+      "payment_date": "2022-11-05",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 165,
+      "tenancy_id": 149,
+      "amount": 1234.89,
+      "payment_date": "2020-10-12",
+      "payment_method": "cash"
+    },
+    {
+      "id": 166,
+      "tenancy_id": 124,
+      "amount": 661.57,
+      "payment_date": "2021-09-14",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 167,
+      "tenancy_id": 145,
+      "amount": 746.77,
+      "payment_date": "2022-05-11",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 168,
+      "tenancy_id": 64,
+      "amount": 1248.8,
+      "payment_date": "2021-09-04",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 169,
+      "tenancy_id": 30,
+      "amount": 579.64,
+      "payment_date": "2022-12-24",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 170,
+      "tenancy_id": 84,
+      "amount": 2221.34,
+      "payment_date": "2020-12-07",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 171,
+      "tenancy_id": 118,
+      "amount": 2269.46,
+      "payment_date": "2022-01-10",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 172,
+      "tenancy_id": 53,
+      "amount": 1115.2,
+      "payment_date": "2023-10-23",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 173,
+      "tenancy_id": 2,
+      "amount": 1008.13,
+      "payment_date": "2020-04-30",
+      "payment_method": "cash"
+    },
+    {
+      "id": 174,
+      "tenancy_id": 59,
+      "amount": 537.01,
+      "payment_date": "2021-08-05",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 175,
+      "tenancy_id": 121,
+      "amount": 537.16,
+      "payment_date": "2020-10-16",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 176,
+      "tenancy_id": 16,
+      "amount": 2563.9,
+      "payment_date": "2021-10-25",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 177,
+      "tenancy_id": 46,
+      "amount": 579.62,
+      "payment_date": "2022-11-18",
+      "payment_method": "cash"
+    },
+    {
+      "id": 178,
+      "tenancy_id": 97,
+      "amount": 2156.43,
+      "payment_date": "2022-03-14",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 179,
+      "tenancy_id": 59,
+      "amount": 1521.31,
+      "payment_date": "2020-11-25",
+      "payment_method": "cash"
+    },
+    {
+      "id": 180,
+      "tenancy_id": 39,
+      "amount": 2017.16,
+      "payment_date": "2023-10-30",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 181,
+      "tenancy_id": 67,
+      "amount": 594.6,
+      "payment_date": "2022-10-20",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 182,
+      "tenancy_id": 6,
+      "amount": 732.48,
+      "payment_date": "2021-10-12",
+      "payment_method": "cash"
+    },
+    {
+      "id": 183,
+      "tenancy_id": 7,
+      "amount": 2142.89,
+      "payment_date": "2022-04-07",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 184,
+      "tenancy_id": 12,
+      "amount": 833.04,
+      "payment_date": "2020-11-16",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 185,
+      "tenancy_id": 75,
+      "amount": 2210.47,
+      "payment_date": "2023-02-05",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 186,
+      "tenancy_id": 36,
+      "amount": 2996.15,
+      "payment_date": "2022-11-06",
+      "payment_method": "cash"
+    },
+    {
+      "id": 187,
+      "tenancy_id": 30,
+      "amount": 1440.69,
+      "payment_date": "2023-12-10",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 188,
+      "tenancy_id": 146,
+      "amount": 2563.2,
+      "payment_date": "2020-12-13",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 189,
+      "tenancy_id": 133,
+      "amount": 1631.03,
+      "payment_date": "2021-11-24",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 190,
+      "tenancy_id": 53,
+      "amount": 1134.6,
+      "payment_date": "2022-11-29",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 191,
+      "tenancy_id": 105,
+      "amount": 500.28,
+      "payment_date": "2022-02-05",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 192,
+      "tenancy_id": 118,
+      "amount": 1318.75,
+      "payment_date": "2022-12-14",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 193,
+      "tenancy_id": 72,
+      "amount": 710.5,
+      "payment_date": "2021-06-27",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 194,
+      "tenancy_id": 65,
+      "amount": 597.87,
+      "payment_date": "2020-11-01",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 195,
+      "tenancy_id": 118,
+      "amount": 1298.68,
+      "payment_date": "2020-03-23",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 196,
+      "tenancy_id": 34,
+      "amount": 1461.48,
+      "payment_date": "2020-02-09",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 197,
+      "tenancy_id": 31,
+      "amount": 789.26,
+      "payment_date": "2020-03-13",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 198,
+      "tenancy_id": 136,
+      "amount": 1219.95,
+      "payment_date": "2020-11-24",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 199,
+      "tenancy_id": 133,
+      "amount": 2292.76,
+      "payment_date": "2021-05-26",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 200,
+      "tenancy_id": 129,
+      "amount": 1223.8,
+      "payment_date": "2023-01-31",
+      "payment_method": "cash"
+    },
+    {
+      "id": 201,
+      "tenancy_id": 19,
+      "amount": 1314.84,
+      "payment_date": "2023-08-09",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 202,
+      "tenancy_id": 129,
+      "amount": 2978.83,
+      "payment_date": "2020-12-15",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 203,
+      "tenancy_id": 22,
+      "amount": 1156.44,
+      "payment_date": "2021-12-28",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 204,
+      "tenancy_id": 1,
+      "amount": 1119.49,
+      "payment_date": "2022-06-15",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 205,
+      "tenancy_id": 6,
+      "amount": 919.64,
+      "payment_date": "2021-01-08",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 206,
+      "tenancy_id": 31,
+      "amount": 1126.05,
+      "payment_date": "2020-07-22",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 207,
+      "tenancy_id": 70,
+      "amount": 712.14,
+      "payment_date": "2021-12-15",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 208,
+      "tenancy_id": 106,
+      "amount": 1393.99,
+      "payment_date": "2020-01-14",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 209,
+      "tenancy_id": 115,
+      "amount": 786.5,
+      "payment_date": "2021-08-08",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 210,
+      "tenancy_id": 72,
+      "amount": 697.02,
+      "payment_date": "2020-11-27",
+      "payment_method": "cash"
+    },
+    {
+      "id": 211,
+      "tenancy_id": 112,
+      "amount": 817.3,
+      "payment_date": "2022-04-23",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 212,
+      "tenancy_id": 138,
+      "amount": 2523.11,
+      "payment_date": "2022-11-13",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 213,
+      "tenancy_id": 90,
+      "amount": 557.47,
+      "payment_date": "2023-08-21",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 214,
+      "tenancy_id": 133,
+      "amount": 1059.3,
+      "payment_date": "2022-12-17",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 215,
+      "tenancy_id": 7,
+      "amount": 2300.8,
+      "payment_date": "2020-04-16",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 216,
+      "tenancy_id": 11,
+      "amount": 607.5,
+      "payment_date": "2020-08-26",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 217,
+      "tenancy_id": 16,
+      "amount": 1457.93,
+      "payment_date": "2023-07-26",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 218,
+      "tenancy_id": 140,
+      "amount": 2711.16,
+      "payment_date": "2022-12-12",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 219,
+      "tenancy_id": 96,
+      "amount": 500.01,
+      "payment_date": "2021-11-23",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 220,
+      "tenancy_id": 102,
+      "amount": 1846.79,
+      "payment_date": "2022-09-15",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 221,
+      "tenancy_id": 74,
+      "amount": 503.62,
+      "payment_date": "2022-08-19",
+      "payment_method": "cash"
+    },
+    {
+      "id": 222,
+      "tenancy_id": 126,
+      "amount": 877.2,
+      "payment_date": "2020-02-29",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 223,
+      "tenancy_id": 90,
+      "amount": 2624.45,
+      "payment_date": "2023-04-10",
+      "payment_method": "cash"
+    },
+    {
+      "id": 224,
+      "tenancy_id": 95,
+      "amount": 533.14,
+      "payment_date": "2023-09-18",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 225,
+      "tenancy_id": 116,
+      "amount": 558.87,
+      "payment_date": "2022-07-31",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 226,
+      "tenancy_id": 26,
+      "amount": 697.37,
+      "payment_date": "2022-12-22",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 227,
+      "tenancy_id": 109,
+      "amount": 2593.36,
+      "payment_date": "2021-01-28",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 228,
+      "tenancy_id": 86,
+      "amount": 1932.03,
+      "payment_date": "2020-10-24",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 229,
+      "tenancy_id": 51,
+      "amount": 583.84,
+      "payment_date": "2022-07-12",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 230,
+      "tenancy_id": 95,
+      "amount": 534.16,
+      "payment_date": "2020-12-23",
+      "payment_method": "cash"
+    },
+    {
+      "id": 231,
+      "tenancy_id": 93,
+      "amount": 1412.18,
+      "payment_date": "2022-12-03",
+      "payment_method": "cash"
+    },
+    {
+      "id": 232,
+      "tenancy_id": 60,
+      "amount": 1893.68,
+      "payment_date": "2022-04-29",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 233,
+      "tenancy_id": 23,
+      "amount": 501.71,
+      "payment_date": "2021-01-16",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 234,
+      "tenancy_id": 13,
+      "amount": 2979.33,
+      "payment_date": "2023-12-14",
+      "payment_method": "cash"
+    },
+    {
+      "id": 235,
+      "tenancy_id": 67,
+      "amount": 1258.46,
+      "payment_date": "2021-12-05",
+      "payment_method": "cash"
+    },
+    {
+      "id": 236,
+      "tenancy_id": 101,
+      "amount": 588.32,
+      "payment_date": "2023-08-09",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 237,
+      "tenancy_id": 21,
+      "amount": 1017.64,
+      "payment_date": "2020-06-02",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 238,
+      "tenancy_id": 135,
+      "amount": 724.27,
+      "payment_date": "2020-06-20",
+      "payment_method": "cash"
+    },
+    {
+      "id": 239,
+      "tenancy_id": 51,
+      "amount": 505.89,
+      "payment_date": "2021-01-05",
+      "payment_method": "cash"
+    },
+    {
+      "id": 240,
+      "tenancy_id": 99,
+      "amount": 1405.46,
+      "payment_date": "2021-03-07",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 241,
+      "tenancy_id": 113,
+      "amount": 745.79,
+      "payment_date": "2021-06-02",
+      "payment_method": "cash"
+    },
+    {
+      "id": 242,
+      "tenancy_id": 133,
+      "amount": 1304,
+      "payment_date": "2022-06-24",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 243,
+      "tenancy_id": 86,
+      "amount": 550.69,
+      "payment_date": "2021-10-08",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 244,
+      "tenancy_id": 49,
+      "amount": 1244.94,
+      "payment_date": "2021-11-02",
+      "payment_method": "cash"
+    },
+    {
+      "id": 245,
+      "tenancy_id": 135,
+      "amount": 1051.8,
+      "payment_date": "2020-11-04",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 246,
+      "tenancy_id": 117,
+      "amount": 1049.56,
+      "payment_date": "2023-02-12",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 247,
+      "tenancy_id": 127,
+      "amount": 682.91,
+      "payment_date": "2023-11-23",
+      "payment_method": "cash"
+    },
+    {
+      "id": 248,
+      "tenancy_id": 141,
+      "amount": 1833.26,
+      "payment_date": "2023-08-09",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 249,
+      "tenancy_id": 128,
+      "amount": 695.85,
+      "payment_date": "2020-03-15",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 250,
+      "tenancy_id": 2,
+      "amount": 1828.45,
+      "payment_date": "2020-12-13",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 251,
+      "tenancy_id": 65,
+      "amount": 827.04,
+      "payment_date": "2020-10-06",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 252,
+      "tenancy_id": 128,
+      "amount": 2874.98,
+      "payment_date": "2020-03-24",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 253,
+      "tenancy_id": 99,
+      "amount": 980.54,
+      "payment_date": "2023-07-22",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 254,
+      "tenancy_id": 83,
+      "amount": 2486.95,
+      "payment_date": "2023-10-28",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 255,
+      "tenancy_id": 122,
+      "amount": 2463.11,
+      "payment_date": "2023-03-09",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 256,
+      "tenancy_id": 15,
+      "amount": 1256.99,
+      "payment_date": "2021-08-30",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 257,
+      "tenancy_id": 41,
+      "amount": 931.32,
+      "payment_date": "2023-01-16",
+      "payment_method": "cash"
+    },
+    {
+      "id": 258,
+      "tenancy_id": 124,
+      "amount": 2734.5,
+      "payment_date": "2023-01-22",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 259,
+      "tenancy_id": 83,
+      "amount": 2859.29,
+      "payment_date": "2021-11-04",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 260,
+      "tenancy_id": 25,
+      "amount": 2668.24,
+      "payment_date": "2020-08-13",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 261,
+      "tenancy_id": 68,
+      "amount": 1773.01,
+      "payment_date": "2021-02-22",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 262,
+      "tenancy_id": 78,
+      "amount": 941.26,
+      "payment_date": "2022-11-24",
+      "payment_method": "cash"
+    },
+    {
+      "id": 263,
+      "tenancy_id": 86,
+      "amount": 2920,
+      "payment_date": "2021-07-19",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 264,
+      "tenancy_id": 5,
+      "amount": 609.03,
+      "payment_date": "2020-06-27",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 265,
+      "tenancy_id": 126,
+      "amount": 1092.21,
+      "payment_date": "2023-12-07",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 266,
+      "tenancy_id": 125,
+      "amount": 2282.27,
+      "payment_date": "2023-08-26",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 267,
+      "tenancy_id": 127,
+      "amount": 737.72,
+      "payment_date": "2023-12-13",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 268,
+      "tenancy_id": 12,
+      "amount": 677.55,
+      "payment_date": "2023-10-16",
+      "payment_method": "cash"
+    },
+    {
+      "id": 269,
+      "tenancy_id": 73,
+      "amount": 511.94,
+      "payment_date": "2021-12-23",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 270,
+      "tenancy_id": 78,
+      "amount": 1028.77,
+      "payment_date": "2021-10-03",
+      "payment_method": "cash"
+    },
+    {
+      "id": 271,
+      "tenancy_id": 21,
+      "amount": 569.67,
+      "payment_date": "2022-11-01",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 272,
+      "tenancy_id": 53,
+      "amount": 2154.65,
+      "payment_date": "2020-11-16",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 273,
+      "tenancy_id": 59,
+      "amount": 2587.8,
+      "payment_date": "2022-11-14",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 274,
+      "tenancy_id": 88,
+      "amount": 1239.96,
+      "payment_date": "2022-12-10",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 275,
+      "tenancy_id": 91,
+      "amount": 1774.87,
+      "payment_date": "2022-02-03",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 276,
+      "tenancy_id": 92,
+      "amount": 513.79,
+      "payment_date": "2020-11-02",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 277,
+      "tenancy_id": 38,
+      "amount": 1421.96,
+      "payment_date": "2022-10-28",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 278,
+      "tenancy_id": 81,
+      "amount": 2754.24,
+      "payment_date": "2020-09-06",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 279,
+      "tenancy_id": 82,
+      "amount": 642.39,
+      "payment_date": "2022-09-20",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 280,
+      "tenancy_id": 106,
+      "amount": 2262.41,
+      "payment_date": "2020-02-13",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 281,
+      "tenancy_id": 51,
+      "amount": 1554.52,
+      "payment_date": "2023-04-28",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 282,
+      "tenancy_id": 93,
+      "amount": 1119.33,
+      "payment_date": "2020-01-31",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 283,
+      "tenancy_id": 99,
+      "amount": 2832.53,
+      "payment_date": "2021-12-04",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 284,
+      "tenancy_id": 137,
+      "amount": 2024.41,
+      "payment_date": "2022-05-28",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 285,
+      "tenancy_id": 147,
+      "amount": 864.02,
+      "payment_date": "2021-09-03",
+      "payment_method": "cash"
+    },
+    {
+      "id": 286,
+      "tenancy_id": 108,
+      "amount": 969.15,
+      "payment_date": "2023-11-24",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 287,
+      "tenancy_id": 86,
+      "amount": 1580.35,
+      "payment_date": "2020-01-19",
+      "payment_method": "cash"
+    },
+    {
+      "id": 288,
+      "tenancy_id": 59,
+      "amount": 1850.8,
+      "payment_date": "2023-07-25",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 289,
+      "tenancy_id": 39,
+      "amount": 1599.49,
+      "payment_date": "2022-03-06",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 290,
+      "tenancy_id": 119,
+      "amount": 501.29,
+      "payment_date": "2022-07-22",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 291,
+      "tenancy_id": 136,
+      "amount": 2952.66,
+      "payment_date": "2020-10-28",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 292,
+      "tenancy_id": 86,
+      "amount": 1606.76,
+      "payment_date": "2022-01-22",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 293,
+      "tenancy_id": 3,
+      "amount": 1438.51,
+      "payment_date": "2020-03-11",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 294,
+      "tenancy_id": 68,
+      "amount": 2202.35,
+      "payment_date": "2022-11-30",
+      "payment_method": "cash"
+    },
+    {
+      "id": 295,
+      "tenancy_id": 65,
+      "amount": 501.17,
+      "payment_date": "2020-11-16",
+      "payment_method": "cash"
+    },
+    {
+      "id": 296,
+      "tenancy_id": 107,
+      "amount": 1106.37,
+      "payment_date": "2021-11-14",
+      "payment_method": "cash"
+    },
+    {
+      "id": 297,
+      "tenancy_id": 26,
+      "amount": 1499.45,
+      "payment_date": "2020-08-17",
+      "payment_method": "credit card"
+    },
+    {
+      "id": 298,
+      "tenancy_id": 52,
+      "amount": 1492.56,
+      "payment_date": "2022-02-19",
+      "payment_method": "cash"
+    },
+    {
+      "id": 299,
+      "tenancy_id": 146,
+      "amount": 2424.51,
+      "payment_date": "2022-11-24",
+      "payment_method": "bank transfer"
+    },
+    {
+      "id": 300,
+      "tenancy_id": 136,
+      "amount": 1005.85,
+      "payment_date": "2020-12-23",
+      "payment_method": "bank transfer"
+    }
+  ]
+}
